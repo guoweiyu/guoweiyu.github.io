@@ -11,30 +11,29 @@ Weiyu Guo is a  Ph.D. candidate from the Hong Kong University of Science and Tec
 
 
 
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
 ACHIEVEMENTS
 ======
 ⚫ Published 15 international papers, including 7 in JCR Q1 and 2 in a top international conference.  
 ⚫ Applied for 15 patents, including 2 PCT international patents.  
 ⚫ Involved in writing one book chapter (Generalization with Deep Learning) on world scientific book.  
 
-ACHIEVEMENTS
+Cooperation
 ======
 ⚫ (2021.9-2022.6)Internship at Johns Hopkins University, supervised by Professor Alan Yuille (IEEE Fellow).  
 ⚫ (2019.9-)With experience in international cooperation, published papers in collaboration with Professor Dario
-Farina of Imperial College London (ICL).  
+   Farina of Imperial College London (ICL).  
 
 
-Getting started
+SELECTED AWARDS AND SCHOLARSHIPS
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+• National scholarship for Postgraduates 2021.  
+• The President Scholarship of CAS 2021.  
+• Merit Student of UCAS 2020.  
+• Outstanding graduates of DUT (top 2%) 2019.  
+• Merit Student of DUT 2018.  
+• Outstanding graduates of Liaoning Province (top 1%) 2019. 
+
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
