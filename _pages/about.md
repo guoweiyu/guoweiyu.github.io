@@ -13,14 +13,14 @@ Weiyu Guo is a  Ph.D. candidate from the Hong Kong University of Science and Tec
 
 ACHIEVEMENTS
 ======
-⚫ Published 15 international papers, including 7 in JCR Q1 and 2 in a top international conference.  
-⚫ Applied for 15 patents, including 2 PCT international patents.  
-⚫ Involved in writing one book chapter (Generalization with Deep Learning) on world scientific book.  
+• Published 15 international papers, including 7 in JCR Q1 and 2 in a top international conference.  
+• Applied for 15 patents, including 2 PCT international patents.  
+• Involved in writing one book chapter (Generalization with Deep Learning) on world scientific book.  
 
 Cooperation
 ======
-⚫ (2021.9-2022.6)Internship at Johns Hopkins University, supervised by Professor Alan Yuille (IEEE Fellow).  
-⚫ (2019.9-)With experience in international cooperation, published papers in collaboration with Professor Dario
+• (2021.9-2022.6)Internship at Johns Hopkins University, supervised by Professor Alan Yuille (IEEE Fellow).  
+• (2019.9-)With experience in international cooperation, published papers in collaboration with Professor Dario
    Farina of Imperial College London (ICL).  
 
 
