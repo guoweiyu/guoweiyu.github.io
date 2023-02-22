@@ -18,14 +18,14 @@ ACHIEVEMENTS
 • Involved in writing one book chapter (Generalization with Deep Learning) on world scientific book.  
 
 Cooperation
-======
+------
 • (2021.9-2022.6)Internship at Johns Hopkins University, supervised by Professor Alan Yuille (IEEE Fellow).  
 • (2019.9-)With experience in international cooperation, published papers in collaboration with Professor Dario
    Farina of Imperial College London (ICL).  
 
 
 SELECTED AWARDS AND SCHOLARSHIPS
-======
+------
 • National scholarship for Postgraduates 2021.  
 • The President Scholarship of CAS 2021.  
 • Merit Student of UCAS 2020.  
@@ -33,7 +33,6 @@ SELECTED AWARDS AND SCHOLARSHIPS
 • Merit Student of DUT 2018.  
 • Outstanding graduates of Liaoning Province (top 1%) 2019. 
 
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 
 Site-wide configuration
 ------
