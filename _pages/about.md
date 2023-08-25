@@ -19,9 +19,9 @@ ACHIEVEMENTS
 
 COOPERTATION
 ------
-• (2021.9-2022.6)Internship at Johns Hopkins University, supervised by Professor Alan Yuille (IEEE Fellow) and we published a paper in ECCV together.
-• (2019.9-)With experience in international cooperation, published papers in collaboration with Professor Dario
-   Farina of Imperial College London (ICL) and we published paper in JNE, THMS together.
+• (2021.9-2022.6)Internship at Johns Hopkins University, supervised by Professor ***Alan Yuille*** (IEEE Fellow) and we published a paper in ECCV together.  
+• (2019.9-)With experience in international cooperation, published papers in collaboration with Professor ***Dario
+   Farina*** of Imperial College London (ICL) and we published paper in JNE, THMS together.
 
 
 SELECTED AWARDS AND SCHOLARSHIPS
