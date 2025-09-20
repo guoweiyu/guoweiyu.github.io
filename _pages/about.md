@@ -44,9 +44,18 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 • 2019.9 - Now, Collaboration with [Professor ***Dario Farina***](https://scholar.google.com/citations?user=0JDIQ0wAAAAJ) of Imperial College London (ICL) and we published paper in JNE, THMS together.
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Publications
+# 📝 Selected Publications
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Guo, Weiyu`, Ziyang Chen, Shaoguang Wang, Jianxiang He, Yijie Xu, Jinhui Ye, Ying Sun, and Hui Xiong. "Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding." ICCV submitted (2025).
+[[预览]](https://arxiv.org/pdf/2503.13139) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,14 +65,7 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 submitted</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
--	`Guo, Weiyu`, Ziyang Chen, Shaoguang Wang, Jianxiang He, Yijie Xu, Jinhui Ye, Ying Sun, and Hui Xiong. "Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding." ICCV submitted (2025).
-[[预览]](https://arxiv.org/pdf/2503.13139) 
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
