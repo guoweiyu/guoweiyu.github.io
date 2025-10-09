@@ -24,6 +24,13 @@ I am now working on vision-language-action model, human in the loop and Neural I
 My research interest includes Bio-Inspired Neural Network, Neural Interface, Multimodal Large Langugae Model and Robotic manipulation. I have published 20+ papers
  <a href='https://scholar.google.com/citations?user=ES-56HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> at the top international AI conferences such as **ICML, NeurIPS, ECCV, THMS**. And I aslo pubilished 10+ papers in top journals of Neural Engineering and Robotics such as JNE, TNSRE, RA-L.
 
+<span class='anchor' id='news'></span>
+
+# 🔥 News
+---
+- *2025.09*: 🎉 One paper accepted at **IJCV 2025**!
+- *2025.09*: 🎉 Two paper accepted at **NeurIPS 2025**!
+- *2025.01*: 🎉 One paper accepted at **ICLR 2025**!
 
 
 <span class='anchor' id='-xl'></span>
@@ -50,7 +57,7 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Guo, Weiyu`, Ziyang Chen, Shaoguang Wang, Jianxiang He, Yijie Xu, Jinhui Ye, Ying Sun, and Hui Xiong. "Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding." ICCV submitted (2025).
+-	`Guo, Weiyu`, Ziyang Chen, Shaoguang Wang, Jianxiang He, Yijie Xu, Jinhui Ye, Ying Sun, and Hui Xiong. "Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding." NeurIPS 2025.
 [[预览]](https://arxiv.org/pdf/2503.13139) 
 
 </div>
