@@ -35,7 +35,7 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 
 <span class='anchor' id='-xl'></span>
 # 📚 Achievements
-- Published **27 international papers**.  
+- Published **40 international papers**.  
 - Applied for **15 patents**, including 2 PCT international patents.  
 - Involved in writing one book chapter (Generalization with Deep Learning) on **world scientific book**.  
 - Reported by media such as **People's Daily**（人民日报）, **China Central Television**(央视新闻), and Guangzhou Daily. 
