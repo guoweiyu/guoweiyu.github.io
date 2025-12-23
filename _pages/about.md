@@ -54,6 +54,15 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 # 📝 Selected Publications
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature(under review)</div><img src='images/collision.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Guo, Weiyu`, He Zhang, Pengteng Li, Tiefu Cai, Ziyang Chen, Jinhui Ye, Yandong Guo, He Xiao, Yongkui Yang, Ying Sun and Hui Xiong. "A Brain-like Embodied Intelligence for Fluid and Fast Reflexive Robotics Control" Nature (Under review)
+[[预览]](https://github.com/guoweiyu/NeuroVLA/) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
