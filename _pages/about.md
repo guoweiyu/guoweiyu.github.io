@@ -28,6 +28,8 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 
 # 🔥 News
 ---
+- *2025.12*: 🎉 Our StarVLA has been selected as one of the **Top 10** Most Influential Open-Source Embodied AI Repositories.!
+- *2025.12*: 🎉 Our StarVLA get  **600+ star**!
 - *2025.09*: 🎉 One paper accepted at **IJCV 2025**!
 - *2025.09*: 🎉 Two paper accepted at **NeurIPS 2025**!
 - *2025.01*: 🎉 One paper accepted at **ICLR 2025**!
@@ -61,6 +63,14 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 [[预览]](https://github.com/guoweiyu/NeuroVLA/) 
 
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature(under review)</div><img src='images/starVLAFramworks.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Co-founders and Core Developers`,StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models.
+[[预览]](https://github.com/starVLA) 
+
+</div>
+
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
