@@ -63,14 +63,15 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 [[预览]](https://github.com/guoweiyu/NeuroVLA/) 
 
 </div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature(under review)</div><img src='images/starVLAFramworks.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Co-founders and Core Developers`,StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models.
+-	`Co-founders and Core Developers`,StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models.**700+ stars**
 [[预览]](https://github.com/starVLA) 
 
 </div>
-
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
