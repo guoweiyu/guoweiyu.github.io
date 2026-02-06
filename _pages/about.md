@@ -21,15 +21,16 @@ I am currently a P.h.D student at Artificail Intelligence Thrust, Information Hu
 
 I am now working on vision-language-action model, human in the loop and Neural Interface research. If you are seeking any form of academic cooperation, please feel free to email me at [guoweiyu96@gmail.com](guoweiyu96@gmail.com).
 
-My research interest includes Bio-Inspired Neural Network, Neural Interface, Multimodal Large Langugae Model and Robotic manipulation. I have published 20+ papers
+My research interest includes Bio-Inspired Neural Network, Neural Interface, Multimodal Large Langugae Model and Robotic manipulation. I have published 40+ papers
  <a href='https://scholar.google.com/citations?user=ES-56HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> at the top international AI conferences such as **ICML, NeurIPS, ECCV, THMS**. And I aslo pubilished 10+ papers in top journals of Neural Engineering and Robotics such as JNE, TNSRE, RA-L.
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
 ---
+- *2022.2*: 🎉 Our StarVLA get  **1.1K+ star**!
 - *2025.12*: 🎉 Our StarVLA has been selected as one of the **Top 10** Most Influential Open-Source Embodied AI Repositories.!
-- *2025.12*: 🎉 Our StarVLA get  **600+ star**!
+- *2025.10*: 🎉 One paper accepted at **AAAI 2025**!
 - *2025.09*: 🎉 One paper accepted at **IJCV 2025**!
 - *2025.09*: 🎉 Two paper accepted at **NeurIPS 2025**!
 - *2025.01*: 🎉 One paper accepted at **ICLR 2025**!
