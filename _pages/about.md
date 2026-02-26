@@ -28,7 +28,7 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 
 # 🔥 News
 ---
-- *2022.2*: 🎉 Our StarVLA get  **1.1K+ star**!
+- *2026.2*: 🎉 Our StarVLA get  **1.1K+ star**!
 - *2025.12*: 🎉 Our StarVLA has been selected as one of the **Top 10** Most Influential Open-Source Embodied AI Repositories.!
 - *2025.10*: 🎉 One paper accepted at **AAAI 2025**!
 - *2025.09*: 🎉 One paper accepted at **IJCV 2025**!
@@ -66,7 +66,7 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature(under review)</div><img src='images/starVLAFramworks.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Code base</div><img src='images/starVLAFramworks.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Co-founders and Core Developers`,StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models.**700+ stars**
