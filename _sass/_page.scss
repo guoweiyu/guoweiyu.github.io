@@ -412,14 +412,16 @@
 }
 
 .footer_site{
-  padding-top: 9em;
+  padding-top: 5em;
   align-items: center;
 }
 .page_a {
-  color: #224b8d;
+  color: #2b6cb0;
   text-decoration: none;
   &:hover {
-    text-decoration: underline;}
+    text-decoration: underline;
+    color: #1a365d;
+  }
 }
 hr {
   width: 100%;
@@ -429,8 +431,11 @@ hr {
 .footer_copyright{
   font-family: $sans-serif-narrow;
   margin-top: 0.5em;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
   display: flex;
   justify-content: center;
   align-items: center;
+  color: #718096;
+  font-size: 0.85em;
+  gap: 0.3em;
 }

@@ -6,18 +6,15 @@
    Typography
    ========================================================================== */
 
-   $doc-font-size              : 14;
+   $doc-font-size              : 15;
 
    /* paragraph indention */
    $paragraph-indent           : false; // true, false (default)
    $indent-var                 : 0.5em;
    
    /* system typefaces */
-   $serif                      :  "Trebuchet MS",sans-serif; // Georgia, Times, sans-serif;
-   $sans-serif                 : "Trebuchet MS", Helvetica,"Source Han Sans", "Microsoft YaHei", sans-serif;
-   // $sans-serif                 : Georgia, serif, sans-serif;
-   
-   // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+   $serif                      : "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, "Source Han Sans", "Microsoft YaHei", sans-serif;
+   $sans-serif                 : "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, "Source Han Sans", "Microsoft YaHei", sans-serif;
    $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
    
    /* sans serif typefaces */
@@ -57,19 +54,18 @@
    $lighter-gray               : mix(#fff, $gray, 90%);
    
    $body-color                 : #fff;
-   $background-color           : #fff;
-   $code-background-color      : #EDEDEB;
-   $code-text-color           : #E65555;
+   $background-color           : #fafbfd;
+   $code-background-color      : #f0f4f8;
+   $code-text-color           : #e53e3e;
    $code-background-color-dark : $light-gray;
-   $text-color                 : $dark-gray;
-   $border-color               : $lighter-gray;
-   
-   $primary-color              : #7a8288;
-   $success-color              : #62c462;
-   $warning-color              : #f89406;
-   $danger-color               : #ee5f5b;
-   $info-color                 : #224b8d;
-   // $info-color                 : #52adc8;
+   $text-color                 : #2d3748;
+   $border-color               : #e2e8f0;
+
+   $primary-color              : #4a5568;
+   $success-color              : #48bb78;
+   $warning-color              : #ed8936;
+   $danger-color               : #fc8181;
+   $info-color                 : #2b6cb0;
    
    /* brands */
    $behance-color              : #1769FF;

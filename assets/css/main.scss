@@ -40,15 +40,66 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ============================================================
+   Global Enhancements
+   ============================================================ */
+
+body {
+    background-color: #fafbfd;
+}
+
+/* Smooth scroll */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Better selection color */
+::selection {
+    background: rgba(43, 108, 176, 0.15);
+    color: #1a365d;
+}
+
+/* ============================================================
+   Section Headers
+   ============================================================ */
+.page__content h1 {
+    font-weight: 700;
+    font-size: 1.5em;
+    color: #1a365d;
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 0.4em;
+    margin-top: 2em;
+    position: relative;
+
+    &::after {
+        content: '';
+        position: absolute;
+        bottom: -2px;
+        left: 0;
+        width: 60px;
+        height: 2px;
+        background: linear-gradient(90deg, #2b6cb0, #4299e1);
+    }
+}
+
+/* ============================================================
+   Paper Box — Publication Cards
+   ============================================================ */
 .paper-box {
     display: flex;
     justify-content: left;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
+    border-bottom: 1px #e2e8f0 solid;
     padding: 2em 0 2em 0;
-    
+    border-radius: 8px;
+    transition: all 0.3s ease;
+
+    &:hover {
+        background-color: rgba(43, 108, 176, 0.02);
+        transform: translateY(-1px);
+    }
 
     .paper-box-image{
         justify-content: center;
@@ -57,16 +108,21 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
             object-fit: cover;
+            border-radius: 6px;
+            transition: all 0.3s ease;
+        }
+        &:hover img {
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
@@ -74,36 +130,287 @@
             max-width: 40%;
             order: 1;
         }
-        
+
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
 
+/* ============================================================
+   Badges
+   ============================================================ */
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0.3em 0.9em;
     position: absolute;
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    background: linear-gradient(135deg, #1a365d, #2b6cb0);
+    font-size: .75em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    border-radius: 0 4px 4px 0;
+    box-shadow: 0 2px 8px rgba(26, 54, 93, 0.3);
+    z-index: 1;
+}
+
+/* ============================================================
+   Research Tags
+   ============================================================ */
+.research-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+}
+
+.research-tag {
+    display: inline-block;
+    padding: 0.35em 0.9em;
+    background: linear-gradient(135deg, #ebf4ff, #e2e8f0);
+    color: #2b6cb0;
+    font-size: 0.85em;
+    font-weight: 500;
+    border-radius: 20px;
+    border: 1px solid rgba(43, 108, 176, 0.15);
+    transition: all 0.2s ease;
+
+    &:hover {
+        background: linear-gradient(135deg, #2b6cb0, #2c5282);
+        color: white;
+        transform: translateY(-1px);
+        box-shadow: 0 2px 8px rgba(43, 108, 176, 0.25);
+    }
+}
+
+/* ============================================================
+   News Section
+   ============================================================ */
+.page__content > ul {
+    li {
+        position: relative;
+        padding-left: 0.5em;
+
+        em {
+            color: #2b6cb0;
+            font-weight: 600;
+            font-style: normal;
+        }
+    }
+}
+
+/* ============================================================
+   Collaboration & Industry Cards
+   ============================================================ */
+.collab-item {
+    padding: 1em 1.2em;
+    margin-bottom: 0.8em;
+    background: #fff;
+    border-left: 3px solid #2b6cb0;
+    border-radius: 0 6px 6px 0;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+    transition: all 0.2s ease;
+    font-size: 0.95em;
+    line-height: 1.6;
+
+    &:hover {
+        box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1);
+        transform: translateX(2px);
+    }
+
+    strong {
+        color: #1a365d;
+    }
+}
+
+/* ============================================================
+   Mentee Grid
+   ============================================================ */
+.mentee-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 0.6em;
+    margin-top: 0.5em;
+}
+
+.mentee-item {
+    padding: 0.6em 1em;
+    background: #f7fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    font-size: 0.9em;
+    color: #4a5568;
+    transition: all 0.2s ease;
+
+    &:hover {
+        background: #ebf4ff;
+        border-color: #bee3f8;
+    }
+}
+
+/* ============================================================
+   Service Section
+   ============================================================ */
+.service-list {
+    list-style: none;
+    padding: 0;
+
+    li {
+        padding: 0.4em 0;
+        padding-left: 1.5em;
+        position: relative;
+
+        &::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0.85em;
+            width: 8px;
+            height: 8px;
+            background: #2b6cb0;
+            border-radius: 50%;
+        }
+    }
+}
+
+/* ============================================================
+   Awards Section
+   ============================================================ */
+.page__content > ul li {
+    line-height: 1.7;
+}
+
+/* ============================================================
+   Profile Sidebar Enhancements
+   ============================================================ */
+.author__avatar img {
+    border: 3px solid transparent !important;
+    background: linear-gradient(#fff, #fff) padding-box,
+                linear-gradient(135deg, #2b6cb0, #4299e1, #63b3ed) border-box !important;
+    padding: 3px !important;
+}
+
+.author__name {
+    color: #1a365d;
+    font-weight: 700;
+}
+
+.author__bio {
+    color: #4a5568;
+    font-size: 0.9em;
+}
+
+.author__urls-wrapper {
+    .social-icons li {
+        div {
+            color: #4a5568;
+            font-size: 0.9em;
+            line-height: 1.6;
+        }
+    }
+}
+
+/* ============================================================
+   Masthead Enhancements
+   ============================================================ */
+.masthead {
+    background: rgba(255, 255, 255, 0.95) !important;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid #e2e8f0 !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+/* ============================================================
+   Footer Enhancements
+   ============================================================ */
+.footer_site {
+    padding-top: 5em;
+}
+
+.footer_copyright {
+    color: #718096;
+    font-size: 0.85em;
+    padding: 1em 0 1.5em;
+}
+
+/* ============================================================
+   Scroll Animation
+   ============================================================ */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(16px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.paper-box {
+    animation: fadeInUp 0.4s ease both;
+}
+
+/* ============================================================
+   Link Styles
+   ============================================================ */
+.page__content a {
+    color: #2b6cb0;
+    transition: color 0.2s ease;
+
+    &:hover {
+        color: #1a365d;
+    }
+}
+
+/* ============================================================
+   Responsive Tweaks
+   ============================================================ */
+@media (max-width: 600px) {
+    .research-tags {
+        gap: 0.4em;
+    }
+
+    .research-tag {
+        font-size: 0.8em;
+        padding: 0.25em 0.7em;
+    }
+
+    .mentee-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .collab-item {
+        padding: 0.8em 1em;
+    }
+}
+
+/* ============================================================
+   Highlight for author name in publications
+   ============================================================ */
+.page__content code {
+    background: linear-gradient(135deg, #ebf4ff, #e2e8f0);
+    color: #1a365d;
+    font-weight: 600;
+    font-family: inherit;
+    border: 1px solid rgba(43, 108, 176, 0.12);
+    border-radius: 3px;
+    box-shadow: none;
+    font-size: 0.95em;
 }

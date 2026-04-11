@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weiyu Guo"
-description              : "Bio-inspried Embodied AI, Multimodal Large Langugae Model, Neural Interface"
+description              : "Bio-Inspired Embodied AI, Vision-Language-Action Model, Neural Interface"
 repository               : "guoweiyu/guoweiyu.github.io"
 google_scholar_stats_use_cdn : false
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weiyu Guo"
   avatar           : "images/gwy_pic/android-chrome-192x192.png"
-  bio              : "HKUST"
+  bio              : "Ph.D. Candidate, HKUST(GZ)"
   location         : "Guangzhou"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 

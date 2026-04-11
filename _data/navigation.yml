@@ -1,15 +1,19 @@
 # main links links
 main:
-  - title: "About-me"
+  - title: "About"
     url: "/#about-me"
 
   - title: "Education"
     url: "/#-xl"
 
-  - title: "Publication"
+  - title: "Publications"
     url: "/#-lwzl"
+
+  - title: "Teaching"
+    url: "/#-jxfw"
+
+  - title: "Service"
+    url: "/#-xsfw"
 
   - title: "Awards"
     url: "/#-ryjx"
-
-
