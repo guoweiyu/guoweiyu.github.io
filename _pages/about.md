@@ -70,7 +70,7 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Code base</div><img src='images/starVLAFramworks.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Co-founders and Core Developers`,StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models.**1.5K+ stars**
+-	`Co-founders and Core Developers`,StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models.**1.7K+ stars**
 [[预览]](https://github.com/starVLA) [[Report]](https://arxiv.org/abs/2604.05014)
 
 </div>
