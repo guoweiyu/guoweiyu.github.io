@@ -41,8 +41,9 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 🔥 News
 ---
+- *2026.05*: &nbsp; Released our [**AlphaBrain Platform**](https://www.alphabrain-platform.com/)!
 - *2026.04*: &nbsp; Our [StarVLA](https://arxiv.org/abs/2604.05014) report has been published!
-- *2026.02*: &nbsp; Our StarVLA reaches **1.7K+ stars** on GitHub!
+- *2026.02*: &nbsp; Our StarVLA reaches **2.6K+ stars** on GitHub!
 - *2025.12*: &nbsp; StarVLA selected as one of the **Top 10** Most Influential Open-Source Embodied AI Repositories!
 - *2025.10*: &nbsp; One paper accepted at **AAAI 2025**!
 - *2025.09*: &nbsp; One paper accepted at **IJCV 2025**! Two papers accepted at **NeurIPS 2025**!
@@ -55,7 +56,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 # 📚 Achievements
 - Published **40+ international papers** at top venues (ICML, NeurIPS, CVPR, ECCV, ICLR, AAAI, IJCV, JNE, THMS, RA-L).
 - Applied for **16 patents**, including 2 PCT international patents.
-- Co-founded **StarVLA**: open-source VLA framework with **1.7K+ GitHub stars**, adopted by Unitree and Alibaba Qwen, ranked **Top 10** Most Influential Embodied AI Repositories 2025.
+- Co-founded **StarVLA**: open-source VLA framework with **2.6K+ GitHub stars**, adopted by Unitree and Alibaba Qwen, ranked **Top 10** Most Influential Embodied AI Repositories 2025.
 - **VLA Research Lead** at AI&sup2; Robotics (valuation exceeding 10 billion RMB).
 - Involved in writing one book chapter (*Generalization with Deep Learning*) on **World Scientific** book.
 - Reported by **People's Daily** (人民日报), **China Central Television** (央视新闻), and Guangzhou Daily.
@@ -97,8 +98,16 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Code base</div><img src='images/starVLAFramworks.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Co-founders and Core Developers`, StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models. **1.7K+ stars**
+-	`Co-founders and Core Developers`, StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models. **2.6K+ stars**
 [[Preview]](https://github.com/starVLA) [[Report]](https://arxiv.org/abs/2604.05014)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ICML_shiyewai.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Guo, Weiyu`, et al. "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action." ICML 2026.
 
 </div>
 </div>
@@ -237,7 +246,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 🔬 Academic Service
 
-**Conference Reviewer:** AAAI, NeurIPS, CVPR, ICLR, ICML (20+ papers reviewed)
+**Conference Reviewer:** AAAI, NeurIPS, CVPR, ICLR, ICML
 
 **Journal Reviewer:** Scientific Reports, IEEE Robotics and Automation Letters (RA-L)
 
