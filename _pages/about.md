@@ -74,19 +74,39 @@ If you are seeking any form of academic cooperation, please feel free to email m
 # 🤝 Collaboration & Industry
 
 <div class="collab-item">
-<strong>Technical Lead, Large-Model &amp; Research Divisions</strong> — AI&sup2; Robotics (智平方) &middot; Leading the large-model technical roadmap and the research division, covering the development and deployment of brain-inspired embodied large models in commercial humanoid robotic products.
+  <div class="collab-logo"><a href="https://www.ai2robotics.com/"><img src="/images/logos/ai2robotics.png" alt="AI2 Robotics"></a></div>
+  <div class="collab-body">
+    <span class="collab-role">Technical Lead, Xlab &amp; EAI (Large-Model &amp; Research Divisions)</span>
+    <span class="collab-org">AI&sup2; Robotics (智平方)</span>
+    <span class="collab-desc">Leading the large-model technical roadmap and the research division, covering the development and deployment of brain-inspired embodied large models in commercial humanoid robotic products.</span>
+  </div>
 </div>
 
 <div class="collab-item">
-<strong>Postdoctoral Fellow (incoming)</strong> — <a href="https://mmlab.ie.cuhk.edu.hk/">MMLab</a>, The Chinese University of Hong Kong &middot; Brain-inspired embodied intelligence and Vision-Language-Action models.
+  <div class="collab-logo"><a href="https://mmlab.ie.cuhk.edu.hk/"><img class="collab-logo--crest" src="/images/logos/cuhk.png" alt="CUHK"></a></div>
+  <div class="collab-body">
+    <span class="collab-role">Postdoctoral Fellow (incoming)</span>
+    <span class="collab-org"><a href="https://mmlab.ie.cuhk.edu.hk/">MMLab</a>, The Chinese University of Hong Kong &middot; 2026 – Present</span>
+    <span class="collab-desc">Brain-inspired embodied intelligence and Vision-Language-Action models.</span>
+  </div>
 </div>
 
 <div class="collab-item">
-<strong>Research Associate</strong> — Johns Hopkins University (2021.09 – 2022.06) &middot; Supervised by <a href="https://scholar.google.com/citations?user=FJ-huxgAAAAJ">Prof. <strong>Alan Yuille</strong> (IEEE Fellow)</a>. Published at ECCV.
+  <div class="collab-logo"><a href="https://www.jhu.edu/"><img src="/images/logos/jhu.png" alt="Johns Hopkins University"></a></div>
+  <div class="collab-body">
+    <span class="collab-role">Research Associate</span>
+    <span class="collab-org">Johns Hopkins University &middot; 2021.09 – 2022.06</span>
+    <span class="collab-desc">Supervised by <a href="https://scholar.google.com/citations?user=FJ-huxgAAAAJ">Prof. <strong>Alan Yuille</strong></a> (IEEE Fellow). Published at ECCV.</span>
+  </div>
 </div>
 
 <div class="collab-item">
-<strong>Long-term Collaboration</strong> — <a href="https://scholar.google.com/citations?user=0JDIQ0wAAAAJ">Prof. <strong>Dario Farina</strong></a>, Imperial College London (2019 – Present) &middot; Published papers in JNE, THMS.
+  <div class="collab-logo"><a href="https://www.imperial.ac.uk/"><img class="collab-logo--crest" src="/images/logos/imperial.png" alt="Imperial College London"></a></div>
+  <div class="collab-body">
+    <span class="collab-role">Long-term Collaboration</span>
+    <span class="collab-org">Imperial College London &middot; 2019 – Present</span>
+    <span class="collab-desc">With <a href="https://scholar.google.com/citations?user=0JDIQ0wAAAAJ">Prof. <strong>Dario Farina</strong></a>. Published papers in JNE, THMS.</span>
+  </div>
 </div>
 
 <span class='anchor' id='-lwzl'></span>
