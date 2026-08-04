@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at the Artificial Intelligence Thrust, Information Hub, The Hong Kong University of Science and Technology, expected to graduate in **July 2026**. I am supervised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (AAAS/IEEE/AAAI/ACM Fellow, Founding Editor-in-Chief of *Nature npj AI*).
+I am an **incoming Postdoctoral Fellow** at the [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/), The Chinese University of Hong Kong. I received my Ph.D. from the Artificial Intelligence Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou) in **2026**, supervised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (AAAS/IEEE/AAAI/ACM Fellow, Founding Editor-in-Chief of *Nature npj AI*).
 
 My research focuses on **Brain-Inspired Embodied Intelligence**, spanning three interconnected layers:
 - **Human-Like Sensing** — Neural interfaces, surface electromyography (sEMG), and event-driven vision for robust perception
 - **Brain-Inspired Neural Architecture** — Spiking Neural Networks (SNNs), neuromorphic computing, and cortex-cerebellum-spinal cord hierarchy modeling
 - **Action-Grounded Learning** — Vision-Language-Action (VLA) models, hierarchical skill learning, and humanoid robotic control
 
-I have published 40+ papers <a href='https://scholar.google.com/citations?user=ES-56HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top international AI conferences including **ICML, NeurIPS, ECCV, CVPR, ICLR, AAAI**, and journals such as **IJCV, JNE, TNSRE, RA-L, THMS**. I also serve as the **VLA Research Lead** at AI&sup2; Robotics.
+I have published 40+ papers <a href='https://scholar.google.com/citations?user=ES-56HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top international AI conferences including **ICML, NeurIPS, ECCV, CVPR, ICLR, AAAI**, and journals such as **IJCV, JNE, TNSRE, RA-L, THMS**. I also serve as the **Technical Lead of the Large-Model and Research Divisions** at AI&sup2; Robotics (智平方).
 
 If you are seeking any form of academic cooperation, please feel free to email me at [guoweiyu96@gmail.com](mailto:guoweiyu96@gmail.com).
 
@@ -41,6 +41,9 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 🔥 News
 ---
+- *2026.08*: &nbsp; Joining the **MMLab, CUHK** as an incoming **Postdoctoral Fellow**!
+- *2026.08*: &nbsp; Our StarVLA reaches **3.3K+ stars** on GitHub!
+- *2026.07*: &nbsp; New preprint: [**The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty**](https://arxiv.org/abs/2607.27933) is out on arXiv!
 - *2026.05*: &nbsp; Released our [**AlphaBrain Platform**](https://www.alphabrain-platform.com/)!
 - *2026.04*: &nbsp; Our [StarVLA](https://arxiv.org/abs/2604.05014) report has been published!
 - *2026.02*: &nbsp; Our StarVLA reaches **2.6K+ stars** on GitHub!
@@ -56,21 +59,26 @@ If you are seeking any form of academic cooperation, please feel free to email m
 # 📚 Achievements
 - Published **40+ international papers** at top venues (ICML, NeurIPS, CVPR, ECCV, ICLR, AAAI, IJCV, JNE, THMS, RA-L).
 - Applied for **16 patents**, including 2 PCT international patents.
-- Co-founded **StarVLA**: open-source VLA framework with **2.6K+ GitHub stars**, adopted by Unitree and Alibaba Qwen, ranked **Top 10** Most Influential Embodied AI Repositories 2025.
-- **VLA Research Lead** at AI&sup2; Robotics (valuation exceeding 10 billion RMB).
+- Co-founded **StarVLA**: open-source VLA framework with **3.3K+ GitHub stars** (430+ forks), adopted by Unitree and Alibaba Qwen, ranked **Top 10** Most Influential Embodied AI Repositories 2025.
+- **Technical Lead of the Large-Model and Research Divisions** at AI&sup2; Robotics (valuation exceeding 10 billion RMB).
 - Involved in writing one book chapter (*Generalization with Deep Learning*) on **World Scientific** book.
 - Reported by **People's Daily** (人民日报), **China Central Television** (央视新闻), and Guangzhou Daily.
 - Co-founded a neural-interface company with a valuation of over **70 million RMB**.
 
 # 🎓 Education
-- *2022.08 - Present*, <a href="https://www.ust.hk/"><img class="svg" src="/images/HKUST.png" width="30pt"></a> The Hong Kong University of Science and Technology (Guangzhou), Artificial Intelligence, Ph.D. Candidate
+- *2026.08 - Present*, <a href="https://www.cuhk.edu.hk/"><img class="svg" src="/images/CUHK.png" width="23pt"></a> The Chinese University of Hong Kong, Multimedia Laboratory (MMLab), Postdoctoral Fellow (incoming)
+- *2022.08 - 2026.07*, <a href="https://www.ust.hk/"><img class="svg" src="/images/HKUST.png" width="30pt"></a> The Hong Kong University of Science and Technology (Guangzhou), Artificial Intelligence, Ph.D.
 - *2019.08 - 2022.06*, <a href="https://www.ucas.ac.cn/"><img class="svg" src="/images/UCAS.png" width="23pt"></a> University of Chinese Academy of Sciences, School of Artificial Intelligence, M.S.
 - *2015.09 - 2019.06*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/DLUT.png" width="23pt"></a> Dalian University of Technology, School of Software Engineering, B.S.
 
 # 🤝 Collaboration & Industry
 
 <div class="collab-item">
-<strong>VLA Research Lead</strong> — AI&sup2; Robotics &middot; Leading the development and deployment of brain-inspired embodied large models in commercial humanoid robotic products.
+<strong>Technical Lead, Large-Model &amp; Research Divisions</strong> — AI&sup2; Robotics (智平方) &middot; Leading the large-model technical roadmap and the research division, covering the development and deployment of brain-inspired embodied large models in commercial humanoid robotic products.
+</div>
+
+<div class="collab-item">
+<strong>Postdoctoral Fellow (incoming)</strong> — <a href="https://mmlab.ie.cuhk.edu.hk/">MMLab</a>, The Chinese University of Hong Kong &middot; Brain-inspired embodied intelligence and Vision-Language-Action models.
 </div>
 
 <div class="collab-item">
@@ -98,8 +106,17 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Code base</div><img src='images/starVLAFramworks.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Co-founders and Core Developers`, StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models. **2.6K+ stars**
+-	`Co-founders and Core Developers`, StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models. **3.3K+ stars**
 [[Preview]](https://github.com/starVLA) [[Report]](https://arxiv.org/abs/2604.05014)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/fm_uncertainty.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Ziyang Rao, Yiren Zhao, `Guo, Weiyu`, Ben Fei, Yandong Guo, and Hui Xiong. "The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty." arXiv preprint arXiv:2607.27933 (2026).
+[[Preview]](https://arxiv.org/abs/2607.27933) [[Code]](https://github.com/rrrrrrzy/fm-geometry)
 
 </div>
 </div>
