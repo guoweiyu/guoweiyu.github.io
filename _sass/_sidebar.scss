@@ -241,6 +241,15 @@
 
   li {
     white-space: nowrap;
+
+    /* Long free-text entries (e.g. employer) must wrap inside the sidebar
+       instead of overflowing it. */
+    &.author__urls-text {
+      white-space: normal;
+      overflow-wrap: break-word;
+      line-height: 1.4;
+      padding-right: 5px;
+    }
   }
 
   a {
