@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Weiyu Guo"
-  avatar           : "images/gwy_pic/android-chrome-192x192.png"
+  avatar           : "/images/gwy_pic/android-chrome-192x192.png"
   bio              : "Incoming Postdoc, MMLab, CUHK"
   location         : "Hong Kong"
   employer         : "Tech Lead @ AI&sup2; Robotics Xlab &amp; EAI"
