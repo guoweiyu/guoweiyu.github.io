@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an **incoming Postdoctoral Fellow** at the [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/), The Chinese University of Hong Kong. I received my Ph.D. from the Artificial Intelligence Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou) in **2026**, supervised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (AAAS/IEEE/AAAI/ACM Fellow, Founding Editor-in-Chief of *Nature npj AI*).
+I am currently the **Technical Lead of Embodied Foundation Models** at [AI&sup2; Robotics](https://www.ai2robotics.com/) (智平方), and an **incoming Postdoctoral Fellow** at the [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/), The Chinese University of Hong Kong. I received my Ph.D. from the Artificial Intelligence Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou) in **2026**, supervised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (AAAS/IEEE/AAAI/ACM Fellow, Founding Editor-in-Chief of *Nature npj AI*).
 
 My research focuses on **Brain-Inspired Embodied Intelligence**, spanning three interconnected layers:
 - **Human-Like Sensing** — Neural interfaces, surface electromyography (sEMG), and event-driven vision for robust perception
 - **Brain-Inspired Neural Architecture** — Spiking Neural Networks (SNNs), neuromorphic computing, and cortex-cerebellum-spinal cord hierarchy modeling
 - **Action-Grounded Learning** — Vision-Language-Action (VLA) models, hierarchical skill learning, and humanoid robotic control
 
-I have published 40+ papers <a href='https://scholar.google.com/citations?user=ES-56HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top international AI conferences including **ICML, NeurIPS, ECCV, CVPR, ICLR, AAAI**, and journals such as **IJCV, JNE, TNSRE, RA-L, THMS**. I also serve as the **Technical Lead of the Large-Model and Research Divisions** at AI&sup2; Robotics (智平方).
+I have published 40+ papers <a href='https://scholar.google.com/citations?user=ES-56HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top international AI conferences including **ICML, NeurIPS, ECCV, CVPR, ICLR, AAAI**, and journals such as **IJCV, JNE, TNSRE, RA-L, THMS**.
 
 If you are seeking any form of academic cooperation, please feel free to email me at [guoweiyu96@gmail.com](mailto:guoweiyu96@gmail.com).
 
@@ -60,7 +60,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 - Published **40+ international papers** at top venues (ICML, NeurIPS, CVPR, ECCV, ICLR, AAAI, IJCV, JNE, THMS, RA-L).
 - Applied for **16 patents**, including 2 PCT international patents.
 - Co-founded **StarVLA**: open-source VLA framework with **3.3K+ GitHub stars** (430+ forks), adopted by Unitree and Alibaba Qwen, ranked **Top 10** Most Influential Embodied AI Repositories 2025.
-- **Technical Lead of the Large-Model and Research Divisions** at AI&sup2; Robotics (valuation exceeding 10 billion RMB).
+- **Technical Lead of Embodied Foundation Models** at AI&sup2; Robotics (智平方, valuation exceeding 10 billion RMB).
 - Involved in writing one book chapter (*Generalization with Deep Learning*) on **World Scientific** book.
 - Reported by **People's Daily** (人民日报), **China Central Television** (央视新闻), and Guangzhou Daily.
 - Co-founded a neural-interface company with a valuation of over **70 million RMB**.
