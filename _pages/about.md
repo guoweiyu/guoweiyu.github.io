@@ -24,7 +24,7 @@ My research focuses on **Brain-Inspired Embodied Intelligence**, spanning three 
 - **Brain-Inspired Neural Architecture** — Spiking Neural Networks (SNNs), neuromorphic computing, and cortex-cerebellum-spinal cord hierarchy modeling
 - **Action-Grounded Learning** — Vision-Language-Action (VLA) models, hierarchical skill learning, and humanoid robotic control
 
-I have published 40+ papers <a href='https://scholar.google.com/citations?user=ES-56HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top international AI conferences including **ICML, NeurIPS, ECCV, CVPR, ICLR, AAAI**, and journals such as **IJCV, JNE, TNSRE, RA-L, THMS**.
+I have published 45+ papers <a href='https://scholar.google.com/citations?user=ES-56HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> (h-index 15, i10-index 19) at top international AI conferences including **ICML, NeurIPS, ECCV, CVPR, ICLR, AAAI**, and journals such as **IJCV, JNE, TNSRE, TMM, RA-L, THMS**.
 
 If you are seeking any form of academic cooperation, please feel free to email me at [guoweiyu96@gmail.com](mailto:guoweiyu96@gmail.com).
 
@@ -42,9 +42,11 @@ If you are seeking any form of academic cooperation, please feel free to email m
 # 🔥 News
 ---
 - *2026.08*: &nbsp; Joining the **MMLab, CUHK** as an incoming **Postdoctoral Fellow**!
-- *2026.08*: &nbsp; Our StarVLA reaches **3.3K+ stars** on GitHub!
-- *2026.07*: &nbsp; New preprint: [**The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty**](https://arxiv.org/abs/2607.27933) is out on arXiv!
+- *2026.08*: &nbsp; Our StarVLA reaches **3.5K+ stars** on GitHub!
+- *2026.08*: &nbsp; New preprint: [**How Should Vision-Language-Action Models Use Proprioceptive State?**](https://arxiv.org/abs/2608.03052) is out on arXiv!
+- *2026.07*: &nbsp; New preprint: [**The Geometry of Flow-Matching Uncertainty**](https://arxiv.org/abs/2607.27933) is out on arXiv!
 - *2026.05*: &nbsp; Released our [**AlphaBrain Platform**](https://www.alphabrain-platform.com/)!
+- *2026.05*: &nbsp; One paper accepted at **ICML 2026**!
 - *2026.04*: &nbsp; Our [StarVLA](https://arxiv.org/abs/2604.05014) report has been published!
 - *2026.02*: &nbsp; Our StarVLA reaches **2.6K+ stars** on GitHub!
 - *2025.12*: &nbsp; StarVLA selected as one of the **Top 10** Most Influential Open-Source Embodied AI Repositories!
@@ -57,9 +59,9 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <span class='anchor' id='-xl'></span>
 
 # 📚 Achievements
-- Published **40+ international papers** at top venues (ICML, NeurIPS, CVPR, ECCV, ICLR, AAAI, IJCV, JNE, THMS, RA-L).
+- Published **45+ international papers** at top venues (ICML, NeurIPS, CVPR, ECCV, ICLR, AAAI, IJCV, JNE, THMS, TMM, RA-L), with **800+ citations** (h-index 15).
 - Applied for **16 patents**, including 2 PCT international patents.
-- Co-founded **StarVLA**: open-source VLA framework with **3.3K+ GitHub stars** (430+ forks), adopted by Unitree and Alibaba Qwen, ranked **Top 10** Most Influential Embodied AI Repositories 2025.
+- Co-founded **StarVLA**: open-source VLA framework with **3.5K+ GitHub stars** (460+ forks), adopted by Unitree and Alibaba Qwen, ranked **Top 10** Most Influential Embodied AI Repositories 2025.
 - **Technical Lead of Embodied Foundation Models** at AI&sup2; Robotics (智平方, valuation exceeding 10 billion RMB).
 - Involved in writing one book chapter (*Generalization with Deep Learning*) on **World Scientific** book.
 - Reported by **People's Daily** (人民日报), **China Central Television** (央视新闻), and Guangzhou Daily.
@@ -126,8 +128,17 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Code base</div><img src='images/starVLAFramworks.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Co-founders and Core Developers`, StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models. **3.3K+ stars**
+-	`Co-founders and Core Developers`, StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models. **3.5K+ stars**
 [[Preview]](https://github.com/starVLA) [[Report]](https://arxiv.org/abs/2604.05014)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/vla_state.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Yiren Zhao, Ziyang Chen, Ziyang Rao, Pengteng Li, He Zhang, `Guo, Weiyu`, Yandong Guo, and Rushi Dai. "How Should Vision-Language-Action Models Use Proprioceptive State?" arXiv preprint arXiv:2608.03052 (2026).
+[[Preview]](https://arxiv.org/abs/2608.03052)
 
 </div>
 </div>
@@ -135,7 +146,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/fm_uncertainty.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Ziyang Rao, Yiren Zhao, `Guo, Weiyu`, Ben Fei, Yandong Guo, and Hui Xiong. "The Geometric Nature and a Free Proxy for Flow-Matching Uncertainty." arXiv preprint arXiv:2607.27933 (2026).
+-	Ziyang Rao, Yiren Zhao, `Guo, Weiyu`, Ben Fei, Yandong Guo, and Hui Xiong. "The Geometry of Flow-Matching Uncertainty: A Cost-free Uncertainty Proxy and Its Application in Flow-based VLA Failure Detection." arXiv preprint arXiv:2607.27933 (2026).
 [[Preview]](https://arxiv.org/abs/2607.27933) [[Code]](https://github.com/rrrrrrzy/fm-geometry)
 
 </div>
@@ -144,7 +155,8 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ICML_shiyewai.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Guo, Weiyu`, et al. "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action." ICML 2026.
+-	Pengteng Li, `Guo, Weiyu`, He Zhang, Tiefu Cai, Xiao He, Yandong Guo, and Hui Xiong. "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action." ICML 2026.
+[[Preview]](https://arxiv.org/abs/2605.22283)
 
 </div>
 </div>
@@ -204,6 +216,18 @@ If you are seeking any form of academic cooperation, please feel free to email m
 ### Other Publications
 ---
 
+-    Li, Pengteng, Song, Pinhao, Li, Wuyang, `Guo, Weiyu`, Yao, Huizai, Xu, Yijie, Liu, Dugang, Xiong, Hui. "See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model." **NeurIPS** (2025)
+
+-    Yao, Huizai, Zhao, Sicheng, Li, Pengteng, Cui, Yi, Lu, Shuo, `Guo, Weiyu`, Lu, Yunfan, Xu, Yijie, Xiong, Hui. "Beyond Boundaries: Leveraging Vision Foundation Models for Source-Free Object Detection." **AAAI** (2026)
+
+-    Wang, Shaoguang, `Guo, Weiyu`, Chen, Ziyang, Xu, Yijie, Hu, Xuming, Xiong, Hui. "Less is More: Token-Efficient Video-QA via Adaptive Frame-Pruning and Semantic Graph Integration." **CVPR** Findings (2026)
+
+-    He, Jianxiang, Hong, Meisheng, Li, Jungang, `Guo, Weiyu`, Hu, Xuming, Xiong, Hui. "VSI: Visual Subtitle Integration for Keyframe Selection to Enhance Long Video Understanding." **CVPR** Findings (2026)
+
+-    Li, Pengteng, Lu, Yunfan, Song, Pinhao, `Guo, Weiyu`, Yao, Huizai, Yu, F. Richard, Xiong, Hui. "DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring." IEEE TMM (2026). IEEE
+
+-    Sun, Guoying, `Guo, Weiyu`, Shao, Tong, Yang, Yang, Zeng, Haijin, Liu, Jie, Su, Jingyong. "BrainCognizer: Brain Decoding with Human Visual Cognition Simulation for fMRI-to-Image Reconstruction." IEEE BIBM (2025). IEEE
+
 -    Lu, Yunfan, Xu, Yijie, Ma, Wenzong, `Guo, Weiyu`, Xiong, Hui. "Event camera demosaicing via swin transformer and pixel-focus loss." **CVPR** (2024)
 
 -    `Guo, Weiyu`, Sun, Guoying, He, JianXiang, Shao, Tong, Wang, Shaoguang, Chen, Ziyang, Hong, Meisheng, Sun, Ying, Xiong, Hui. "A Survey of fMRI to Image Reconstruction." arXiv preprint arXiv:2502.16861 (2025)
@@ -251,6 +275,27 @@ If you are seeking any form of academic cooperation, please feel free to email m
 -    Wu, Yaqi, Fan, Zhihao, Chu, Xiaofeng, Ren, Jimmy S, Li, Xiaoming, Yue, Zongsheng, Li, Chongyi, Zhou, Shangcheng, Feng, Ruicheng, Dai, Yuekun. "Mipi 2024 challenge on demosaic for hybridevs camera: Methods and results." CVPR Workshop (2024)
 
 -    Yunfan, LU, Xu, Xiaogang, Hao, LU, Qian, Yanlin, Yang, Bin, Li, Junyi, Cai, Qianyi, `Guo, Weiyu`, Xiong, Hui. "SEE: See Everything Every Time-Broader Light Range Image Enhancement via Events."
+
+### Preprints & Under Review
+---
+
+-    Wang, Shaoguang, `Guo, Weiyu`, Fei, Ben, Shao, Xiaohong, Wang, Zhihui, Ouyang, Wanli. "Diagnosing and Narrowing the Simulation-to-Real Gap in Powder X-ray Diffraction with a Wet-Dry Agentic Loop." arXiv preprint arXiv:2608.22400 (2026)
+
+-    Wang, Shaoguang, `Guo, Weiyu`, Dai, Rushi, Zhao, Yiren, Guo, Yandong, Xiong, Hui. "Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies." arXiv preprint arXiv:2608.04692 (2026)
+
+-    Wang, Haobo, Sun, Baoli, Zou, Anqi, Huang, Dongsheng, Lv, Zelin, Wang, Ning, Li, Rui, Zhou, Dongzhan, `Guo, Weiyu`, Wang, Zhihui, Ouyang, Wanli. "LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratory." arXiv preprint arXiv:2607.23704 (2026)
+
+-    Zhang, He, Sun, Ying, Li, Pengteng, Chen, Ziyang, Zhao, Yiren, Rao, Ziyang, `Guo, Weiyu`, Guo, Yandong, Xiong, Hui. "Source-Lifted Flow Matching for Intervenable Multimodal Imitation." arXiv preprint arXiv:2607.10206 (2026)
+
+-    Liu, Jiaxin, Xu, Xun, Zhang, Zhenhao, Wang, Hanqing, Chen, Ruiqi, Chang, Shi, `Guo, Weiyu`, Kneip, Laurent. "Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model." arXiv preprint arXiv:2606.29384 (2026)
+
+-    Chen, Ziyang, Wang, Shaoguang, `Guo, Weiyu`, Cai, Qianyi, Zhang, He, Li, Pengteng, Zhao, Yiren, Guo, Yandong. "PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models." arXiv preprint arXiv:2606.03598 (2026)
+
+-    Wang, Shaoguang, `Guo, Weiyu`, Chen, Ziyang, Hu, Xuming, Xiong, Hui. "Where to Focus: Query-Modulated Multimodal Keyframe Selection for Long Video Understanding." arXiv preprint arXiv:2604.17422 (2026)
+
+-    Deng, Han, Zou, Anqi, Zhang, Hanling, Fei, Ben, Zhang, Chengyu, Wang, Haobo, Guo, Xinru, Li, Zhenyu, Wang, Xuzhu, Yang, Peng, Zhang, Fujian, `Guo, Weiyu`, Shao, Xiaohong, Liu, Zhaoyang, Tang, Shixiang, Wang, Zhihui, Ouyang, Wanli. "Owl-AuraID 1.0: An Intelligent System for Autonomous Scientific Instrumentation and Scientific Data Analysis." arXiv preprint arXiv:2603.29828 (2026)
+
+-    Xu, Yijie, Yao, Huizai, Guo, Zhiyu, Li, Pengteng, Liu, Aiwei, Hu, Xuming, `Guo, Weiyu`, Xiong, Hui. "You Only Need 4 Extra Tokens: Synergistic Test-Time Adaptation for LLMs." arXiv preprint arXiv:2510.10223 (2025)
 
 ### Selected Patents
 ---
