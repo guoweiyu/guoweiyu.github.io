@@ -15,23 +15,32 @@
   </div>
   <div class="publication-list">
     {% for paper in site.data.publications %}
-    <article id="publication-{{ paper.short | slugify }}" class="publication{% if paper.video %} has-demo{% endif %}" data-topic="{{ paper.topic }}">
+    <article id="publication-{{ paper.short | slugify }}" class="publication{% if paper.video and paper.video_only != true %} has-demo{% endif %}{% if paper.video_only %} video-only{% endif %}" data-topic="{{ paper.topic }}">
       <div class="publication-media">
+      {% unless paper.video_only %}
       <a class="publication-image" href="{% if paper.links.size > 0 %}{{ paper.links[0].url }}{% else %}{{ site.author.googlescholar }}{% endif %}" target="_blank" rel="noopener noreferrer" aria-label="Read {{ paper.short | escape }}">
         <img src="{{ paper.image | relative_url }}" alt="{% if paper.image_alt %}{{ paper.image_alt | escape }}{% else %}{{ paper.short | escape }} research illustration{% endif %}" loading="lazy" width="300" height="190">
       </a>
+      {% endunless %}
         {% if paper.video %}
-        <figure class="publication-demo">
+        <figure class="publication-demo{% if paper.video_only %} publication-image{% endif %}">
           <video class="publication-video" muted loop playsinline controls preload="none" poster="{{ paper.video_poster | relative_url }}" aria-label="{{ paper.short | escape }} video demonstration">
             <source src="{{ paper.video | relative_url }}" type="video/mp4">
             <a href="{{ paper.video | relative_url }}">Watch {{ paper.short }} video</a>
           </video>
-          <figcaption>{{ paper.video_caption }}</figcaption>
+          {% unless paper.video_only %}<figcaption>{{ paper.video_caption }}</figcaption>{% endunless %}
         </figure>
         {% endif %}
       </div>
       <div class="publication-body">
-        <div class="publication-meta"><span class="venue {% if paper.venue contains 'Preprint' %}venue-preprint{% endif %}">{{ paper.venue }}</span><span class="paper-short">{{ paper.short }}</span>{% if paper.role %}<span class="paper-role" aria-label="Weiyu Guo: {{ paper.role | escape }}">{{ paper.role }}</span>{% endif %}</div>
+        <div class="publication-meta"><span class="venue {% if paper.venue contains 'Preprint' %}venue-preprint{% endif %}">{{ paper.venue }}</span><span class="paper-short">{{ paper.short }}</span></div>
+        {% if paper.role or paper.corresponding %}
+        <p class="paper-contribution" aria-label="Weiyu Guo's role">
+          {% if paper.corresponding %}<strong class="paper-role paper-role-corresponding">Corresponding Author</strong>{% endif %}
+          {% if paper.corresponding and paper.role %}<span class="role-separator" aria-hidden="true">/</span>{% endif %}
+          {% if paper.role %}<strong class="paper-role">{{ paper.role }}</strong>{% endif %}
+        </p>
+        {% endif %}
         <h3><a href="{% if paper.links.size > 0 %}{{ paper.links[0].url }}{% else %}{{ site.author.googlescholar }}{% endif %}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a></h3>
         <p class="paper-description">{{ paper.description }}</p>
         <p class="paper-authors">{{ paper.authors }}</p>

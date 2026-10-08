@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: "Weiyu Guo — Brain-Inspired Embodied Intelligence"
-excerpt: "Research on brain-inspired embodied intelligence, vision-language-action models, neural interfaces, and robotics. XLab Leader at AI² Robotics (智平方), leading embodied foundation models and frontier embodied AI research. Postdoctoral Fellow at MMLab, CUHK."
+excerpt: "Research on brain-inspired embodied intelligence, vision-language-action models, neural interfaces, and robotics. Principal Investigator (PI), XLab at AI² Robotics (智平方), leading embodied foundation models and frontier embodied AI research. Postdoctoral Fellow at MMLab, CUHK."
 author_profile: false
 redirect_from:
   - /about/
@@ -16,7 +16,7 @@ redirect_from:
     <p class="hero-statement" lang="zh">沿着生物进化的神奇蓝图<br><em>推动物理智能前进</em></p>
     <p class="hero-statement-translation" lang="en">Guided by evolution’s remarkable blueprint,<br>advancing physical intelligence.</p>
     <div class="hero-leadership">
-      <p class="hero-role"><strong>XLab Leader</strong><a href="https://www.ai2robotics.com/" target="_blank" rel="noopener noreferrer">AI² Robotics · <span lang="zh">智平方</span> ↗</a></p>
+      <p class="hero-role"><strong>Principal Investigator (PI), XLab</strong><a href="https://www.ai2robotics.com/" target="_blank" rel="noopener noreferrer">AI² Robotics · <span lang="zh">智平方</span> ↗</a></p>
       <p class="hero-responsibility">Leading embodied foundation models &amp; frontier embodied AI research.</p>
     </div>
     <p class="hero-bio">I build models that connect perception, memory, and control. My research brings insights from the brain into embodied AI — for robots that understand the world and act within it.</p>

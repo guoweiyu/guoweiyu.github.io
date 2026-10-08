@@ -6,7 +6,7 @@
     "venue": "Preprint · 2026",
     "topic": "embodied",
     "short": "NeuroVLA",
-    "description": "A cortex–cerebellum–spinal cord hierarchy for semantic planning, smooth motion, and fast local feedback.",
+    "description": "A cortex-cerebellum-spinal cord hierarchy for semantic planning, smooth motion, and fast local feedback.",
     "links": [
       {
         "label": "Paper",
@@ -17,6 +17,137 @@
         "url": "https://github.com/guoweiyu/NeuroVLA"
       }
     ]
+  },
+  {
+    "title": "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action.",
+    "authors": "Pengteng Li, <strong>Weiyu Guo</strong>, He Zhang, Tiefu Cai, Xiao He, Yandong Guo, and Hui Xiong",
+    "image": "/images/ICML_shiyewai.gif",
+    "venue": "ICML · 2026",
+    "topic": "embodied",
+    "short": "SOMA",
+    "description": "Persistent spatial-semantic memory for manipulating objects beyond the current field of view.",
+    "links": [
+      {
+        "label": "Proceedings",
+        "url": "https://proceedings.mlr.press/v306/li26ay.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2605.22283"
+      }
+    ],
+    "role": "Project Leader"
+  },
+  {
+    "title": "PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models",
+    "authors": "Ziyang Chen, Shaoguang Wang, <strong>Weiyu Guo</strong>, Qianyi Cai, He Zhang, Pengteng Li, Yiren Zhao, and Yandong Guo",
+    "image": "/images/papers/phaser-fig2.png",
+    "venue": "Preprint · 2026",
+    "topic": "embodied",
+    "short": "PHASER",
+    "description": "Phase-aware memory replay to preserve brief but critical subskills during continual learning.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2606.03598"
+      }
+    ],
+    "role": "Project Leader",
+    "image_alt": "PHASER Figure 2: phase-aware memory allocation and semantic experience replay pipeline",
+    "image_source": "https://arxiv.org/pdf/2606.03598v2#page=3",
+    "image_figure": "Figure 2",
+    "image_page": 3,
+    "video": "/assets/media/publications/phaser-demo.mp4",
+    "video_poster": "/assets/media/publications/phaser-poster.jpg",
+    "video_caption": "PHASER · continual learning demo",
+    "corresponding": true,
+    "corresponding_source": "https://arxiv.org/pdf/2606.03598v2#page=1",
+    "video_only": true
+  },
+  {
+    "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
+    "authors": "Han Yan, Zishang Xiang, Haokai Jiang, Zeyu Zhang, Qilin Wang, <strong>Weiyu Guo</strong>, Yandong Guo, Boxin Shi, and Hao Tang",
+    "image": "/images/papers/deltawam-fig1.png",
+    "venue": "Preprint · 2026",
+    "topic": "embodied",
+    "short": "DeltaWAM",
+    "description": "Streaming Delta Memory reuses visual context and models sparse changes for efficient bimanual manipulation.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2609.28811"
+      },
+      {
+        "label": "Project",
+        "url": "https://aigeeksgroup.github.io/DeltaWAM/"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/AIGeeksGroup/DeltaWAM"
+      }
+    ],
+    "role": "Project Leader",
+    "image_alt": "DeltaWAM Figure 1: sparse visual deltas, Streaming Delta Memory, and experimental results",
+    "image_source": "https://arxiv.org/pdf/2609.28811v1#page=1",
+    "image_figure": "Figure 1",
+    "image_page": 1
+  },
+  {
+    "title": "How Should Vision-Language-Action Models Use Proprioceptive State?",
+    "authors": "Yiren Zhao, Ziyang Chen, Ziyang Rao, Pengteng Li, He Zhang, <strong>Weiyu Guo</strong>, Yandong Guo, and Rushi Dai",
+    "image": "/images/vla_state.png",
+    "venue": "Preprint · 2026",
+    "topic": "embodied",
+    "short": "Proprioceptive state",
+    "description": "A systematic study of where and how robot state and its temporal history should enter a VLA model.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2608.03052"
+      }
+    ],
+    "role": "Project Leader",
+    "corresponding": true,
+    "corresponding_source": "https://arxiv.org/pdf/2608.03052v1#page=1"
+  },
+  {
+    "title": "The Geometry of Flow-Matching Uncertainty: A Cost-free Uncertainty Proxy and Its Application in Flow-based VLA Failure Detection.",
+    "authors": "Ziyang Rao, Yiren Zhao, <strong>Weiyu Guo</strong>, Ben Fei, Yandong Guo, and Hui Xiong",
+    "image": "/images/fm_uncertainty.gif",
+    "venue": "Preprint · 2026",
+    "topic": "embodied",
+    "short": "Flow geometry",
+    "description": "Failure-risk signals from the geometry of an existing flow-matching inference trajectory, without extra model evaluations.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2607.27933"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/rrrrrrzy/fm-geometry"
+      }
+    ],
+    "role": "Project Leader"
+  },
+  {
+    "title": "Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model",
+    "authors": "Jiaxin Liu, Xun Xu, Zhenhao Zhang, Hanqing Wang, Ruiqi Chen, Shi Chang, <strong>Weiyu Guo</strong>, and Laurent Kneip",
+    "image": "/images/papers/event-vla-fig2.png",
+    "venue": "Preprint · 2026",
+    "topic": "embodied",
+    "short": "Event-VLA",
+    "description": "Action-conditioned fusion of RGB semantics and event-camera motion cues for robust low-light manipulation.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2606.29384"
+      }
+    ],
+    "image_alt": "Event-VLA Figure 2: event residual encoding and action-conditioned event fusion architecture",
+    "image_source": "https://arxiv.org/pdf/2606.29384v1#page=3",
+    "image_figure": "Figure 2",
+    "image_page": 3
   },
   {
     "title": "Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding.",
@@ -105,131 +236,5 @@
     "short": "Multi-attention fusion",
     "description": "Feature fusion for continuous finger-kinematics estimation.",
     "links": []
-  },
-  {
-    "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
-    "authors": "Han Yan, Zishang Xiang, Haokai Jiang, Zeyu Zhang, Qilin Wang, <strong>Weiyu Guo</strong>, Yandong Guo, Boxin Shi, and Hao Tang",
-    "image": "/images/papers/deltawam-fig1.png",
-    "venue": "Preprint · 2026",
-    "topic": "embodied",
-    "short": "DeltaWAM",
-    "description": "Streaming Delta Memory reuses visual context and models sparse changes for efficient bimanual manipulation.",
-    "links": [
-      {
-        "label": "Paper",
-        "url": "https://arxiv.org/abs/2609.28811"
-      },
-      {
-        "label": "Project",
-        "url": "https://aigeeksgroup.github.io/DeltaWAM/"
-      },
-      {
-        "label": "Code",
-        "url": "https://github.com/AIGeeksGroup/DeltaWAM"
-      }
-    ],
-    "role": "Project Leader",
-    "image_alt": "DeltaWAM Figure 1: sparse visual deltas, Streaming Delta Memory, and experimental results",
-    "image_source": "https://arxiv.org/pdf/2609.28811v1#page=1",
-    "image_figure": "Figure 1",
-    "image_page": 1
-  },
-  {
-    "title": "How Should Vision-Language-Action Models Use Proprioceptive State?",
-    "authors": "Yiren Zhao, Ziyang Chen, Ziyang Rao, Pengteng Li, He Zhang, <strong>Weiyu Guo</strong>, Yandong Guo, and Rushi Dai",
-    "image": "/images/vla_state.png",
-    "venue": "Preprint · 2026",
-    "topic": "embodied",
-    "short": "Proprioceptive state",
-    "description": "A systematic study of where and how robot state and its temporal history should enter a VLA model.",
-    "links": [
-      {
-        "label": "Paper",
-        "url": "https://arxiv.org/abs/2608.03052"
-      }
-    ],
-    "role": "Project Leader"
-  },
-  {
-    "title": "The Geometry of Flow-Matching Uncertainty: A Cost-free Uncertainty Proxy and Its Application in Flow-based VLA Failure Detection.",
-    "authors": "Ziyang Rao, Yiren Zhao, <strong>Weiyu Guo</strong>, Ben Fei, Yandong Guo, and Hui Xiong",
-    "image": "/images/fm_uncertainty.gif",
-    "venue": "Preprint · 2026",
-    "topic": "embodied",
-    "short": "Flow geometry",
-    "description": "Failure-risk signals from the geometry of an existing flow-matching inference trajectory, without extra model evaluations.",
-    "links": [
-      {
-        "label": "Paper",
-        "url": "https://arxiv.org/abs/2607.27933"
-      },
-      {
-        "label": "Code",
-        "url": "https://github.com/rrrrrrzy/fm-geometry"
-      }
-    ],
-    "role": "Project Leader"
-  },
-  {
-    "title": "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action.",
-    "authors": "Pengteng Li, <strong>Weiyu Guo</strong>, He Zhang, Tiefu Cai, Xiao He, Yandong Guo, and Hui Xiong",
-    "image": "/images/ICML_shiyewai.gif",
-    "venue": "ICML · 2026",
-    "topic": "embodied",
-    "short": "SOMA",
-    "description": "Persistent spatial-semantic memory for manipulating objects beyond the current field of view.",
-    "links": [
-      {
-        "label": "Proceedings",
-        "url": "https://proceedings.mlr.press/v306/li26ay.html"
-      },
-      {
-        "label": "Paper",
-        "url": "https://arxiv.org/abs/2605.22283"
-      }
-    ],
-    "role": "Project Leader"
-  },
-  {
-    "title": "PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models",
-    "authors": "Ziyang Chen, Shaoguang Wang, <strong>Weiyu Guo</strong>, Qianyi Cai, He Zhang, Pengteng Li, Yiren Zhao, and Yandong Guo",
-    "image": "/images/papers/phaser-fig2.png",
-    "venue": "Preprint · 2026",
-    "topic": "embodied",
-    "short": "PHASER",
-    "description": "Phase-aware memory replay to preserve brief but critical subskills during continual learning.",
-    "links": [
-      {
-        "label": "Paper",
-        "url": "https://arxiv.org/abs/2606.03598"
-      }
-    ],
-    "role": "Project Leader",
-    "image_alt": "PHASER Figure 2: phase-aware memory allocation and semantic experience replay pipeline",
-    "image_source": "https://arxiv.org/pdf/2606.03598v2#page=3",
-    "image_figure": "Figure 2",
-    "image_page": 3,
-    "video": "/assets/media/publications/phaser-demo.mp4",
-    "video_poster": "/assets/media/publications/phaser-poster.jpg",
-    "video_caption": "PHASER · continual learning demo"
-  },
-  {
-    "title": "Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model",
-    "authors": "Jiaxin Liu, Xun Xu, Zhenhao Zhang, Hanqing Wang, Ruiqi Chen, Shi Chang, <strong>Weiyu Guo</strong>, and Laurent Kneip",
-    "image": "/images/papers/event-vla-fig2.png",
-    "venue": "Preprint · 2026",
-    "topic": "embodied",
-    "short": "Event-VLA",
-    "description": "Action-conditioned fusion of RGB semantics and event-camera motion cues for robust low-light manipulation.",
-    "links": [
-      {
-        "label": "Paper",
-        "url": "https://arxiv.org/abs/2606.29384"
-      }
-    ],
-    "image_alt": "Event-VLA Figure 2: event residual encoding and action-conditioned event fusion architecture",
-    "image_source": "https://arxiv.org/pdf/2606.29384v1#page=3",
-    "image_figure": "Figure 2",
-    "image_page": 3
   }
 ]

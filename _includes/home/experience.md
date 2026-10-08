@@ -9,7 +9,7 @@
 <div class="collab-item">
   <div class="collab-logo"><a href="https://www.ai2robotics.com/"><img src="/images/logos/ai2robotics.png" alt="AI2 Robotics"></a></div>
   <div class="collab-body">
-    <span class="collab-role">XLab Leader · Embodied Foundation Models &amp; Frontier Research</span>
+    <span class="collab-role">Principal Investigator (PI), XLab · Embodied Foundation Models &amp; Frontier Research</span>
     <span class="collab-org">AI&sup2; Robotics (智平方)</span>
     <span class="collab-desc">Leading XLab’s embodied foundation model development and frontier embodied AI research, connecting brain-inspired architectures, Vision-Language-Action models, and real-world robotic systems.</span>
   </div>

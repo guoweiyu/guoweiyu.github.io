@@ -1,7 +1,7 @@
 - Published **50+ international papers** at top venues (ICML, NeurIPS, CVPR, ECCV, ICLR, AAAI, IJCV, JNE, THMS, TMM, RA-L), with **800+ citations** (h-index 15).
 - Applied for **16 patents**, including 2 PCT international patents.
 - Co-founded **StarVLA**: open-source VLA framework with **3.5K+ GitHub stars** (460+ forks), adopted by Unitree and Alibaba Qwen, ranked **Top 10** Most Influential Embodied AI Repositories 2025.
-- **XLab Leader**, leading embodied foundation models and frontier embodied AI research at AI&sup2; Robotics (智平方, valuation exceeding 10 billion RMB).
+- **Principal Investigator (PI), XLab**, leading embodied foundation models and frontier embodied AI research at AI&sup2; Robotics (智平方, valuation exceeding 10 billion RMB).
 - Involved in writing one book chapter (*Generalization with Deep Learning*) on **World Scientific** book.
 - Reported by **People's Daily** (人民日报), **China Central Television** (央视新闻), and Guangzhou Daily.
 - Co-founded a neural-interface company with a valuation of over **70 million RMB**.
