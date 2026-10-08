@@ -113,7 +113,7 @@
   {
     "title": "The Geometry of Flow-Matching Uncertainty: A Cost-free Uncertainty Proxy and Its Application in Flow-based VLA Failure Detection.",
     "authors": "Ziyang Rao, Yiren Zhao, <strong>Weiyu Guo</strong>, Ben Fei, Yandong Guo, and Hui Xiong",
-    "image": "/images/fm_uncertainty.gif",
+    "image": "/images/papers/flow-geometry-realpiper.gif",
     "venue": "Preprint · 2026",
     "topic": "embodied",
     "short": "Flow geometry",
@@ -128,7 +128,8 @@
         "url": "https://github.com/rrrrrrzy/fm-geometry"
       }
     ],
-    "role": "Project Leader"
+    "role": "Project Leader",
+    "image_alt": "Real-robot VLA failure-detection demonstration for Flow-Matching Uncertainty"
   },
   {
     "title": "Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model",
