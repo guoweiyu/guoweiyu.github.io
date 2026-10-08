@@ -67,7 +67,7 @@
   {
     "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
     "authors": "Han Yan, Zishang Xiang, Haokai Jiang, Zeyu Zhang, Qilin Wang, <strong>Weiyu Guo</strong>, Yandong Guo, Boxin Shi, and Hao Tang",
-    "image": "/images/papers/deltawam-fig1.png",
+    "image": "/images/papers/deltawam-bowl-stacking.gif",
     "venue": "Preprint · 2026",
     "topic": "embodied",
     "short": "DeltaWAM",
@@ -87,10 +87,8 @@
       }
     ],
     "role": "Project Leader",
-    "image_alt": "DeltaWAM Figure 1: sparse visual deltas, Streaming Delta Memory, and experimental results",
-    "image_source": "https://arxiv.org/pdf/2609.28811v1#page=1",
-    "image_figure": "Figure 1",
-    "image_page": 1
+    "image_alt": "DeltaWAM real-world bimanual bowl-stacking demonstration",
+    "image_source": "https://aigeeksgroup.github.io/DeltaWAM/demo_speed2x_h264/task3_1/BELTE2057.mp4"
   },
   {
     "title": "How Should Vision-Language-Action Models Use Proprioceptive State?",
