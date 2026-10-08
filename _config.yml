@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Weiyu Guo"
-description              : "Bio-Inspired Embodied AI, Vision-Language-Action Model, Neural Interface"
+url                      : "https://weiyuguo.com"
+description              : "Weiyu Guo, XLab Leader at AI² Robotics. Embodied Foundation Models & Frontier Embodied AI Research. Postdoctoral Fellow at MMLab, CUHK."
 repository               : "guoweiyu/guoweiyu.github.io"
 google_scholar_stats_use_cdn : false
 # google analytics
@@ -21,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Weiyu Guo"
-  avatar           : "/images/gwy_pic/android-chrome-192x192.png"
-  bio              : "Incoming Postdoc, MMLab, CUHK"
+  avatar           : "/images/scholar-avatar.jpg"
+  bio              : "Postdoctoral Fellow, MMLab, CUHK"
   location         : "Hong Kong"
-  employer         : "Tech Lead @ AI&sup2; Robotics Xlab &amp; EAI"
+  employer         : "XLab Leader @ AI&sup2; Robotics (智平方)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ES-56HMAAAAJ"
   email            : "guoweiyu96@gmail.com"

@@ -1,350 +1,74 @@
 ---
+layout: home
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
+title: "Weiyu Guo — Brain-Inspired Embodied Intelligence"
+excerpt: "Research on brain-inspired embodied intelligence, vision-language-action models, neural interfaces, and robotics. XLab Leader at AI² Robotics (智平方), leading embodied foundation models and frontier embodied AI research. Postdoctoral Fellow at MMLab, CUHK."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-I am currently the **Technical Lead of Embodied Foundation Models** at [AI&sup2; Robotics](https://www.ai2robotics.com/) (智平方), and an **incoming Postdoctoral Fellow** at the [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/), The Chinese University of Hong Kong. I received my Ph.D. from the Artificial Intelligence Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou) in **2026**, supervised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) (AAAS/IEEE/AAAI/ACM Fellow, Founding Editor-in-Chief of *Nature npj AI*).
-
-My research focuses on **Brain-Inspired Embodied Intelligence**, spanning three interconnected layers:
-- **Human-Like Sensing** — Neural interfaces, surface electromyography (sEMG), and event-driven vision for robust perception
-- **Brain-Inspired Neural Architecture** — Spiking Neural Networks (SNNs), neuromorphic computing, and cortex-cerebellum-spinal cord hierarchy modeling
-- **Action-Grounded Learning** — Vision-Language-Action (VLA) models, hierarchical skill learning, and humanoid robotic control
-
-I have published 45+ papers <a href='https://scholar.google.com/citations?user=ES-56HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> (h-index 15, i10-index 19) at top international AI conferences including **ICML, NeurIPS, ECCV, CVPR, ICLR, AAAI**, and journals such as **IJCV, JNE, TNSRE, TMM, RA-L, THMS**.
-
-If you are seeking any form of academic cooperation, please feel free to email me at [guoweiyu96@gmail.com](mailto:guoweiyu96@gmail.com).
-
-<div class="research-tags">
-  <span class="research-tag">Embodied AI</span>
-  <span class="research-tag">Vision-Language-Action</span>
-  <span class="research-tag">Spiking Neural Networks</span>
-  <span class="research-tag">Neural Interface</span>
-  <span class="research-tag">Neuromorphic Computing</span>
-  <span class="research-tag">Robotic Manipulation</span>
-</div>
-
-<span class='anchor' id='news'></span>
-
-# 🔥 News
----
-- *2026.08*: &nbsp; Joining the **MMLab, CUHK** as an incoming **Postdoctoral Fellow**!
-- *2026.08*: &nbsp; Our StarVLA reaches **3.5K+ stars** on GitHub!
-- *2026.08*: &nbsp; New preprint: [**How Should Vision-Language-Action Models Use Proprioceptive State?**](https://arxiv.org/abs/2608.03052) is out on arXiv!
-- *2026.07*: &nbsp; New preprint: [**The Geometry of Flow-Matching Uncertainty**](https://arxiv.org/abs/2607.27933) is out on arXiv!
-- *2026.05*: &nbsp; Released our [**AlphaBrain Platform**](https://www.alphabrain-platform.com/)!
-- *2026.05*: &nbsp; One paper accepted at **ICML 2026**!
-- *2026.04*: &nbsp; Our [StarVLA](https://arxiv.org/abs/2604.05014) report has been published!
-- *2026.02*: &nbsp; Our StarVLA reaches **2.6K+ stars** on GitHub!
-- *2025.12*: &nbsp; StarVLA selected as one of the **Top 10** Most Influential Open-Source Embodied AI Repositories!
-- *2025.10*: &nbsp; One paper accepted at **AAAI 2025**!
-- *2025.09*: &nbsp; One paper accepted at **IJCV 2025**! Two papers accepted at **NeurIPS 2025**!
-- *2025.01*: &nbsp; One paper accepted at **ICLR 2025**!
-- *2024.09*: &nbsp; One paper accepted at **NeurIPS 2024**!
-- *2024.07*: &nbsp; One paper accepted at **CVPR 2024**!
-
-<span class='anchor' id='-xl'></span>
-
-# 📚 Achievements
-- Published **45+ international papers** at top venues (ICML, NeurIPS, CVPR, ECCV, ICLR, AAAI, IJCV, JNE, THMS, TMM, RA-L), with **800+ citations** (h-index 15).
-- Applied for **16 patents**, including 2 PCT international patents.
-- Co-founded **StarVLA**: open-source VLA framework with **3.5K+ GitHub stars** (460+ forks), adopted by Unitree and Alibaba Qwen, ranked **Top 10** Most Influential Embodied AI Repositories 2025.
-- **Technical Lead of Embodied Foundation Models** at AI&sup2; Robotics (智平方, valuation exceeding 10 billion RMB).
-- Involved in writing one book chapter (*Generalization with Deep Learning*) on **World Scientific** book.
-- Reported by **People's Daily** (人民日报), **China Central Television** (央视新闻), and Guangzhou Daily.
-- Co-founded a neural-interface company with a valuation of over **70 million RMB**.
-
-# 🎓 Education
-- *2026.08 - Present*, <a href="https://www.cuhk.edu.hk/"><img class="svg" src="/images/CUHK.png" width="23pt"></a> The Chinese University of Hong Kong, Multimedia Laboratory (MMLab), Postdoctoral Fellow (incoming)
-- *2022.08 - 2026.07*, <a href="https://www.ust.hk/"><img class="svg" src="/images/HKUST.png" width="30pt"></a> The Hong Kong University of Science and Technology (Guangzhou), Artificial Intelligence, Ph.D.
-- *2019.08 - 2022.06*, <a href="https://www.ucas.ac.cn/"><img class="svg" src="/images/UCAS.png" width="23pt"></a> University of Chinese Academy of Sciences, School of Artificial Intelligence, M.S.
-- *2015.09 - 2019.06*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/DLUT.png" width="23pt"></a> Dalian University of Technology, School of Software Engineering, B.S.
-
-# 🤝 Collaboration & Industry
-
-<div class="collab-item">
-  <div class="collab-logo"><a href="https://www.ai2robotics.com/"><img src="/images/logos/ai2robotics.png" alt="AI2 Robotics"></a></div>
-  <div class="collab-body">
-    <span class="collab-role">Technical Lead, Xlab &amp; EAI (Large-Model &amp; Research Divisions)</span>
-    <span class="collab-org">AI&sup2; Robotics (智平方)</span>
-    <span class="collab-desc">Leading the large-model technical roadmap and the research division, covering the development and deployment of brain-inspired embodied large models in commercial humanoid robotic products.</span>
+<section id="about-me" class="hero section">
+  <div class="hero-copy">
+    <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> BRAIN-INSPIRED EMBODIED INTELLIGENCE</p>
+    <h1>Weiyu Guo<span class="chinese-name" lang="zh">郭伟钰</span></h1>
+    <p class="hero-statement" lang="zh">沿着生物进化的神奇蓝图<br><em>推动物理智能前进</em></p>
+    <p class="hero-statement-translation" lang="en">Guided by evolution’s remarkable blueprint,<br>advancing physical intelligence.</p>
+    <div class="hero-leadership">
+      <p class="hero-role"><strong>XLab Leader</strong><a href="https://www.ai2robotics.com/" target="_blank" rel="noopener noreferrer">AI² Robotics · <span lang="zh">智平方</span> ↗</a></p>
+      <p class="hero-responsibility">Leading embodied foundation models &amp; frontier embodied AI research.</p>
+    </div>
+    <p class="hero-bio">I build models that connect perception, memory, and control. My research brings insights from the brain into embodied AI — for robots that understand the world and act within it.</p>
+    <p class="hero-affiliation"><a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank" rel="noopener noreferrer">Postdoctoral Fellow · <strong>MMLab</strong>, CUHK ↗</a></p>
+    <div class="hero-links"><a class="button button-dark" href="#xlab">Explore XLab <span aria-hidden="true">↘</span></a><a class="button button-outline" href="https://scholar.google.com/citations?hl=en&user=ES-56HMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar ↗</a><a class="hero-github" href="https://github.com/guoweiyu" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div>
   </div>
-</div>
+  <aside class="hero-profile" aria-label="Research profile">
+    <div class="profile-portrait"><img src="{{ site.author.avatar | relative_url }}" alt="Portrait of Weiyu Guo" width="192" height="192"><span class="portrait-orbit" aria-hidden="true"></span></div>
+    <p class="profile-label">RESEARCHER & BUILDER</p>
+    <p class="profile-caption" lang="zh">具身智能<br>视频理解 · 神经接口<span class="profile-caption-translation" lang="en">Embodied AI<br>Video Understanding · Neural Interfaces</span></p>
+    <div class="profile-stats"><div><strong>50<span>+</span></strong><small>Publications</small></div><div><strong>16</strong><small>Patent applications</small></div></div>
+    <a class="profile-email" href="mailto:guoweiyu96@gmail.com">guoweiyu96@gmail.com ↗</a>
+  </aside>
+</section>
 
-<div class="collab-item">
-  <div class="collab-logo"><a href="https://mmlab.ie.cuhk.edu.hk/"><img class="collab-logo--crest" src="/images/logos/cuhk.png" alt="CUHK"></a></div>
-  <div class="collab-body">
-    <span class="collab-role">Postdoctoral Fellow (incoming)</span>
-    <span class="collab-org"><a href="https://mmlab.ie.cuhk.edu.hk/">MMLab</a>, The Chinese University of Hong Kong &middot; 2026 – Present</span>
-    <span class="collab-desc">Brain-inspired embodied intelligence and Vision-Language-Action models.</span>
+<section id="research" class="section research-section">
+  <div class="section-heading"><div><p class="eyebrow">01 / RESEARCH PHILOSOPHY</p><h2>Three layers. One intelligence.</h2></div><span class="section-side-note">Inspired by biology.<br>Grounded in action.</span></div>
+  <div class="research-grid">
+    <article><div class="research-symbol" aria-hidden="true">◉</div><span class="research-index">01 / SENSE</span><h3>Human-like sensing</h3><p>Neural interfaces, surface electromyography, and event-driven vision for robust perception.</p><span class="research-keywords">sEMG · Event cameras · Neural decoding</span></article>
+    <article><div class="research-symbol" aria-hidden="true">⌘</div><span class="research-index">02 / THINK</span><h3>Brain-inspired architecture</h3><p>Spiking neural networks and hierarchical neural architectures that link understanding with real-time control.</p><span class="research-keywords">SNNs · Neuromorphic computing · Hierarchy</span></article>
+    <article><div class="research-symbol" aria-hidden="true">↗</div><span class="research-index">03 / ACT</span><h3>Action-grounded learning</h3><p>Vision-Language-Action models, spatial memory, continual skill learning, and humanoid robotic control.</p><span class="research-keywords">VLA · World models · Robot manipulation</span></article>
   </div>
-</div>
+</section>
 
-<div class="collab-item">
-  <div class="collab-logo"><a href="https://www.jhu.edu/"><img src="/images/logos/jhu.png" alt="Johns Hopkins University"></a></div>
-  <div class="collab-body">
-    <span class="collab-role">Research Associate</span>
-    <span class="collab-org">Johns Hopkins University &middot; 2021.09 – 2022.06</span>
-    <span class="collab-desc">Supervised by <a href="https://scholar.google.com/citations?user=FJ-huxgAAAAJ">Prof. <strong>Alan Yuille</strong></a> (IEEE Fellow). Published at ECCV.</span>
+<section id="news" class="section news-section">
+  <div class="news-label"><span class="eyebrow">LATEST UPDATES</span><span class="news-year">2026</span></div>
+  <div class="news-content">
+    <div class="news-item"><time datetime="2026-09-28">SEP 28</time><p><a href="https://arxiv.org/abs/2607.10206" target="_blank" rel="noopener noreferrer">Updated <strong>SL-FM</strong> preprint.</a> Intervenable multimodal imitation through source-lifted flow matching.</p><span class="news-type">UPDATE</span></div>
+    <div class="news-item"><time datetime="2026-09-23">SEP 23</time><p><a href="https://arxiv.org/abs/2609.28811" target="_blank" rel="noopener noreferrer"><strong>DeltaWAM</strong> is out.</a> Incremental visual memory for efficient bimanual manipulation.</p><span class="news-type">PREPRINT</span></div>
+    <div class="news-item"><time datetime="2026-08">AUG</time><p>Postdoctoral Fellow at <strong>MMLab, CUHK</strong>.</p><span class="news-type">PERSONAL</span></div>
+    <details class="news-archive"><summary>Earlier updates <span aria-hidden="true">↓</span></summary><div class="academic-prose">{% capture news %}{% include home/news-archive.md %}{% endcapture %}{{ news | markdownify }}</div></details>
   </div>
-</div>
-
-<div class="collab-item">
-  <div class="collab-logo"><a href="https://www.imperial.ac.uk/"><img class="collab-logo--crest" src="/images/logos/imperial.png" alt="Imperial College London"></a></div>
-  <div class="collab-body">
-    <span class="collab-role">Long-term Collaboration</span>
-    <span class="collab-org">Imperial College London &middot; 2019 – Present</span>
-    <span class="collab-desc">With <a href="https://scholar.google.com/citations?user=0JDIQ0wAAAAJ">Prof. <strong>Dario Farina</strong></a>. Published papers in JNE, THMS.</span>
-  </div>
-</div>
-
-<span class='anchor' id='-lwzl'></span>
-
-# 📝 Selected Publications
-
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature (under review)</div><img src='images/collision.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Guo, Weiyu`, He Zhang, Pengteng Li, Tiefu Cai, Ziyang Chen, Jinhui Ye, Yandong Guo, He Xiao, Yongkui Yang, Ying Sun and Hui Xiong. "A Brain-like Embodied Intelligence for Fluid and Fast Reflexive Robotics Control" Nature (Under review)
-[[Preview]](https://github.com/guoweiyu/NeuroVLA/) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Code base</div><img src='images/starVLAFramworks.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Co-founders and Core Developers`, StarVLA is a modular and flexible codebase for developing Vision-Language Model (VLM) to Vision-Language-Action (VLA) models. **3.5K+ stars**
-[[Preview]](https://github.com/starVLA) [[Report]](https://arxiv.org/abs/2604.05014)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/vla_state.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	Yiren Zhao, Ziyang Chen, Ziyang Rao, Pengteng Li, He Zhang, `Guo, Weiyu`, Yandong Guo, and Rushi Dai. "How Should Vision-Language-Action Models Use Proprioceptive State?" arXiv preprint arXiv:2608.03052 (2026).
-[[Preview]](https://arxiv.org/abs/2608.03052)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/fm_uncertainty.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	Ziyang Rao, Yiren Zhao, `Guo, Weiyu`, Ben Fei, Yandong Guo, and Hui Xiong. "The Geometry of Flow-Matching Uncertainty: A Cost-free Uncertainty Proxy and Its Application in Flow-based VLA Failure Detection." arXiv preprint arXiv:2607.27933 (2026).
-[[Preview]](https://arxiv.org/abs/2607.27933) [[Code]](https://github.com/rrrrrrzy/fm-geometry)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ICML_shiyewai.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	Pengteng Li, `Guo, Weiyu`, He Zhang, Tiefu Cai, Xiao He, Yandong Guo, and Hui Xiong. "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action." ICML 2026.
-[[Preview]](https://arxiv.org/abs/2605.22283)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Guo, Weiyu`, Ziyang Chen, Shaoguang Wang, Jianxiang He, Yijie Xu, Jinhui Ye, Ying Sun, and Hui Xiong. "Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding." NeurIPS 2025.
-[[Preview]](https://arxiv.org/pdf/2503.13139) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Guo, Weiyu`, Ziyue Qiao, Ying Sun, Yijie Xu, and Hui Xiong. "Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis" ICML (2025).
-[[Preview]](https://arxiv.org/abs/2405.14398) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Guo, Weiyu`, Ying Sun, Yijie Xu, Ziyue Qiao, Yongkui Yang, and Hui Xiong. "SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network." **NeurIPS (2024)**.
-[[Preview]](https://arxiv.org/abs/2405.14398) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/ECCV2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--    `Guo, Weiyu`, Li, Zhaoshuo, Yang, Yongkui, Wang, Zheng, Taylor, Russell H, Unberath, Mathias, Yuille, Alan, Li, Yingwei. "Context-Enhanced Stereo Transformer." ECCV (2022)
- [[Preview]](https://arxiv.org/pdf/2210.11719)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNE</div><img src='images/NI_DM_compressed.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--    `Guo, Weiyu`, Ma, Chenfei, Wang, Zheng, Zhang, Hang, Farina, Dario, Jiang, Ning, Lin, Chuang. "Long exposure convolutional memory network for accurate estimation of finger kinematics from surface electromyographic signals." Journal of Neural Engineering 18(2) 026027 (2021). IOP Publishing
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">THMS 2023</div><img src='images/THMS2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--    `Guo, Weiyu`, Jiang, Ning, Farina, Dario, Su, Jingyong, Wang, Zheng, Lin, Chuang, Xiong, Hui. "Multi-attention feature fusion network for accurate estimation of finger kinematics from surface electromyographic signals." IEEE Transactions on Human-Machine Systems 53(3) 512-519 (2023). IEEE 
-
-</div>
-</div>
-
-### Other Publications
----
-
--    Li, Pengteng, Song, Pinhao, Li, Wuyang, `Guo, Weiyu`, Yao, Huizai, Xu, Yijie, Liu, Dugang, Xiong, Hui. "See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model." **NeurIPS** (2025)
-
--    Yao, Huizai, Zhao, Sicheng, Li, Pengteng, Cui, Yi, Lu, Shuo, `Guo, Weiyu`, Lu, Yunfan, Xu, Yijie, Xiong, Hui. "Beyond Boundaries: Leveraging Vision Foundation Models for Source-Free Object Detection." **AAAI** (2026)
-
--    Wang, Shaoguang, `Guo, Weiyu`, Chen, Ziyang, Xu, Yijie, Hu, Xuming, Xiong, Hui. "Less is More: Token-Efficient Video-QA via Adaptive Frame-Pruning and Semantic Graph Integration." **CVPR** Findings (2026)
-
--    He, Jianxiang, Hong, Meisheng, Li, Jungang, `Guo, Weiyu`, Hu, Xuming, Xiong, Hui. "VSI: Visual Subtitle Integration for Keyframe Selection to Enhance Long Video Understanding." **CVPR** Findings (2026)
-
--    Li, Pengteng, Lu, Yunfan, Song, Pinhao, `Guo, Weiyu`, Yao, Huizai, Yu, F. Richard, Xiong, Hui. "DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring." IEEE TMM (2026). IEEE
-
--    Sun, Guoying, `Guo, Weiyu`, Shao, Tong, Yang, Yang, Zeng, Haijin, Liu, Jie, Su, Jingyong. "BrainCognizer: Brain Decoding with Human Visual Cognition Simulation for fMRI-to-Image Reconstruction." IEEE BIBM (2025). IEEE
-
--    Lu, Yunfan, Xu, Yijie, Ma, Wenzong, `Guo, Weiyu`, Xiong, Hui. "Event camera demosaicing via swin transformer and pixel-focus loss." **CVPR** (2024)
-
--    `Guo, Weiyu`, Sun, Guoying, He, JianXiang, Shao, Tong, Wang, Shaoguang, Chen, Ziyang, Hong, Meisheng, Sun, Ying, Xiong, Hui. "A Survey of fMRI to Image Reconstruction." arXiv preprint arXiv:2502.16861 (2025)
-
--    Lu, Yunfan, Xu, Xiaogang, Lu, Hao, Qian, Yanlin, Li, Pengteng, Yao, Huizai, Yang, Bin, Li, Junyi, Cai, Qianyi, `Guo, Weiyu`. "SEE: See Everything Every Time--Adaptive Brightness Adjustment for Broad Light Range Images via Events." arXiv preprint arXiv:2502.21120 (2025)
-
--    Lin, Chuang, Zhao, Chunxiao, Zhang, Jianhua, Chen, Chen, Jiang, Ning, Farina, Dario, `Guo, Weiyu`. "Continuous Estimation of Hand Kinematics from Electromyographic Signals based on Power-and Time-Efficient Transformer Deep Learning Network." IEEE TNSRE (2024). IEEE
-
--    Chen, Xingjian, `Guo, Weiyu`, Lin, Chuang, Jiang, Ning, Su, Jingyong. "Cross-subject lifelong learning for continuous estimation from surface electromyographic signal." IEEE TNSRE (2024). IEEE
-
--    Zhang, Gaomin, `Guo, Weiyu`, Xiong, Xi, Guan, Zhongcheng. "A hybrid approach combining data envelopment analysis and recurrent neural network for predicting the efficiency of research institutions." Expert Systems with Applications 238 (2024). Pergamon
-
--    Qiao, Ziyue, Xiao, Meng, `Guo, Weiyu`, Luo, Xiao, Xiong, Hui. "Information filtering and interpolating for semi-supervised graph domain adaptation." Pattern Recognition 153 (2024). Pergamon
-
--    Zhang, He, Sun, Ying, `Guo, Weiyu`, Liu, Yafei, Lu, Haonan, Lin, Xiaodong, Xiong, Hui. "Interactive interior design recommendation via coarse-to-fine multimodal reinforcement learning." ACM MM (2023)
-
--    Lin, Chuang, Chen, Xingjian, `Guo, Weiyu`, Jiang, Ning, Farina, Dario, Su, Jingyong. "A BERT based method for continuous estimation of cross-subject hand kinematics from surface electromyographic signals." IEEE TNSRE 31 (2022). IEEE
-
--    Ma, Chenfei, `Guo, Weiyu`, Zhang, Hang, Samuel, Oluwarotimi Williams, Ji, Xiaopeng, Xu, Lisheng, Li, Guanglin. "A novel and efficient feature extraction method for deep learning based continuous estimation." IEEE RA-L 6(4) (2021). IEEE
-
--    Ma, Chenfei, Lin, Chuang, Samuel, Oluwarotimi Williams, `Guo, Weiyu`, Zhang, Hang, Greenwald, Steve, Xu, Lisheng, Li, Guanglin. "A bi-directional LSTM network for estimating continuous upper limb movement from surface electromyography." IEEE RA-L 6(4) (2021). IEEE
-
--    `Guo, Weiyu`, Ma, Chenfei, Wang, Zheng, Zhang, Hang, Farina, Dario, Jiang, Ning, Lin, Chuang. "Long exposure convolutional memory network for accurate estimation of finger kinematics from surface electromyographic signals." JNE 18(2) (2021). IOP Publishing
-
--    Chen, Chao, `Guo, Weiyu`, Ma, Chenfei, Yang, Yongkui, Wang, Zheng, Lin, Chuang. "sEMG-based continuous estimation of finger kinematics via large-scale temporal convolutional network." Applied Sciences 11(10) (2021). MDPI
-
--    Guo, Linlin, Zhang, Hang, `Guo, Weiyu`, Fang, Jian, Lu, Bingxian, Ma, Chenfei, Li, Guanglin, Lin, Chuang, Wang, Lei. "Deep Learning for Device-free Human Activity Recognition Using WiFi Signals." Generalization With Deep Learning (2021)
-
--    Guo, Linlin, Zhang, Hang, Wang, Chao, `Guo, Weiyu`, Diao, Guangqiang, Lu, Bingxian, Lin, Chuang, Wang, Lei. "Towards CSI-based diversity activity recognition via LSTM-CNN encoder-decoder neural network." Neurocomputing 444 (2021). Elsevier
-
--    Wang, Zheng, Wang, Zhuo, Liao, Jian, Chen, Chao, Yang, Yongkui, Dong, Bo, Chen, Weiguang, Chen, Wenxuan, Lei, Ming, `Guo, Weiyu`. "CNN-DMA: a predictable and scalable direct memory access engine for convolutional neural network." GLSVLSI (2021)
-
--    Chen, Wenxuan, Wang, Zheng, Lei, Ming, Dong, Bo, Wang, Zhuo, Yang, Yongkui, Chen, Chao, `Guo, Weiyu`, Liang, Chen, Zhang, Qian. "Improving system latency of AI accelerator with on-chip pipelined activation preprocessing and multi-mode batch inference." IEEE AICAS (2021). IEEE
-
--    Wang, Chao, `Guo, Weiyu`, Zhang, Hang, Guo, Linlin, Huang, Changcheng, Lin, Chuang. "sEMG-based continuous estimation of grasp movements by long-short term memory network." Biomedical Signal Processing and Control 59 (2020). Elsevier
-
--    `Guo, Weiyu`, Wang, Chao, Lin, Chuang, Wang, Chenrui. "Long short term memory model based continuous estimation of human finger joint angles." IEEE RCAR (2019). IEEE
-
--    Zhang, Hang, Wang, Chao, `Guo, Weiyu`, Guo, Linlin, Lin, Chuang. "DFNN-based gesture recognition with the shift and damage of the HD-sEMG electrodes." IEEE ROBIO (2019). IEEE
-
--    Chen, Rui, Chen, YuanZhi, `Guo, Weiyu`, Chen, Chao, Wang, Zheng, Yang, Yongkui. "SEMG-based gesture recognition using GRU with strong robustness against forearm posture." IEEE RCAR (2021). IEEE
-
--    Ma, Chenfei, `Guo, Weiyu`, Xu, Lisheng, Li, Guanglin. "Finger joint angle estimation based on sEMG signals and deep learning method." IEEE RCAR (2021). IEEE
-
--    Wu, Yaqi, Fan, Zhihao, Chu, Xiaofeng, Ren, Jimmy S, Li, Xiaoming, Yue, Zongsheng, Li, Chongyi, Zhou, Shangcheng, Feng, Ruicheng, Dai, Yuekun. "Mipi 2024 challenge on demosaic for hybridevs camera: Methods and results." CVPR Workshop (2024)
-
--    Yunfan, LU, Xu, Xiaogang, Hao, LU, Qian, Yanlin, Yang, Bin, Li, Junyi, Cai, Qianyi, `Guo, Weiyu`, Xiong, Hui. "SEE: See Everything Every Time-Broader Light Range Image Enhancement via Events."
-
-### Preprints & Under Review
----
-
--    Wang, Shaoguang, `Guo, Weiyu`, Fei, Ben, Shao, Xiaohong, Wang, Zhihui, Ouyang, Wanli. "Diagnosing and Narrowing the Simulation-to-Real Gap in Powder X-ray Diffraction with a Wet-Dry Agentic Loop." arXiv preprint arXiv:2608.22400 (2026)
-
--    Wang, Shaoguang, `Guo, Weiyu`, Dai, Rushi, Zhao, Yiren, Guo, Yandong, Xiong, Hui. "Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies." arXiv preprint arXiv:2608.04692 (2026)
-
--    Wang, Haobo, Sun, Baoli, Zou, Anqi, Huang, Dongsheng, Lv, Zelin, Wang, Ning, Li, Rui, Zhou, Dongzhan, `Guo, Weiyu`, Wang, Zhihui, Ouyang, Wanli. "LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratory." arXiv preprint arXiv:2607.23704 (2026)
-
--    Zhang, He, Sun, Ying, Li, Pengteng, Chen, Ziyang, Zhao, Yiren, Rao, Ziyang, `Guo, Weiyu`, Guo, Yandong, Xiong, Hui. "Source-Lifted Flow Matching for Intervenable Multimodal Imitation." arXiv preprint arXiv:2607.10206 (2026)
-
--    Liu, Jiaxin, Xu, Xun, Zhang, Zhenhao, Wang, Hanqing, Chen, Ruiqi, Chang, Shi, `Guo, Weiyu`, Kneip, Laurent. "Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model." arXiv preprint arXiv:2606.29384 (2026)
-
--    Chen, Ziyang, Wang, Shaoguang, `Guo, Weiyu`, Cai, Qianyi, Zhang, He, Li, Pengteng, Zhao, Yiren, Guo, Yandong. "PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models." arXiv preprint arXiv:2606.03598 (2026)
-
--    Wang, Shaoguang, `Guo, Weiyu`, Chen, Ziyang, Hu, Xuming, Xiong, Hui. "Where to Focus: Query-Modulated Multimodal Keyframe Selection for Long Video Understanding." arXiv preprint arXiv:2604.17422 (2026)
-
--    Deng, Han, Zou, Anqi, Zhang, Hanling, Fei, Ben, Zhang, Chengyu, Wang, Haobo, Guo, Xinru, Li, Zhenyu, Wang, Xuzhu, Yang, Peng, Zhang, Fujian, `Guo, Weiyu`, Shao, Xiaohong, Liu, Zhaoyang, Tang, Shixiang, Wang, Zhihui, Ouyang, Wanli. "Owl-AuraID 1.0: An Intelligent System for Autonomous Scientific Instrumentation and Scientific Data Analysis." arXiv preprint arXiv:2603.29828 (2026)
-
--    Xu, Yijie, Yao, Huizai, Guo, Zhiyu, Li, Pengteng, Liu, Aiwei, Hu, Xuming, `Guo, Weiyu`, Xiong, Hui. "You Only Need 4 Extra Tokens: Synergistic Test-Time Adaptation for LLMs." arXiv preprint arXiv:2510.10223 (2025)
-
-### Selected Patents
----
-- Training method, training device of continuous motion information prediction model **PCT/CN2020/133443**
-- Intelligent interactive glove with AI chip, interactive method and storage medium **PCT/CN2021/107108**
-- Power efficiency test method, adjustment method, computer equipment **CN202010389035.4**
-- An in-memory computing accelerator and its optimization method **CN202011406904.6**
-- An automatic optimization method of graph data processing framework **CN202011358762.0**
-
-<span class='anchor' id='-jxfw'></span>
-
-# 🏫 Teaching & Mentorship
-
-**Teaching Assistant:**
-- AIAA 5037: Advanced Algorithms and Data Structures — HKUST(GZ)
-- AIAA 5031: Introduction to Computing Using Python — HKUST(GZ)
-- HKUST Summer Research Training Program Mentor
-
-**Mentored Students:**
-<div class="mentee-grid">
-  <div class="mentee-item">Jinhui Ye &rarr; Ph.D., HKUST</div>
-  <div class="mentee-item">Pengteng Li &rarr; Ph.D., HKUST</div>
-  <div class="mentee-item">Wenzhi Li &rarr; Ph.D., Cornell University</div>
-  <div class="mentee-item">Guoying Sun &rarr; Ph.D., HITSZ</div>
-  <div class="mentee-item">Shu Chen &rarr; Ph.D., HKUST</div>
-  <div class="mentee-item">Xingjian Chen &rarr; Alibaba Group</div>
-</div>
-
-<span class='anchor' id='-xsfw'></span>
-
-# 🔬 Academic Service
-
-**Conference Reviewer:** AAAI, NeurIPS, CVPR, ICLR, ICML
-
-**Journal Reviewer:** Scientific Reports, IEEE Robotics and Automation Letters (RA-L)
-
-**Invited Speaker:** Shenzhen Loop Area Institute — *"Brain-Inspired Computing and Embodied Intelligence"*
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 Awards
-- National Scholarship for Postgraduates, 2021
-- The President Scholarship of CAS, 2021
-- Merit Student of UCAS, 2020
-- Outstanding Graduates of DUT (top 1%), 2019
-- Outstanding Graduates of Liaoning Province (top 1%), 2019
-- Merit Student of DUT, 2018
-
-
-<div style="text-align: center; margin: 0 auto;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_kmyd_k8PNO_FwZEW-CPPsxbwcCgovayd_VI-1PQPYA&w=150&h=150"></script>
-</div>
+</section>
+
+{% include home/xlab.html %}
+{% include home/publications.html %}
+
+<section id="experience" class="section experience-section">
+  <span id="-xl" class="legacy-anchor"></span>
+  <div class="section-heading"><div><p class="eyebrow">04 / EXPERIENCE</p><h2>A research journey.</h2></div><span class="section-side-note">Academia meets industry.</span></div>
+  <p class="experience-intro">I received my Ph.D. in Artificial Intelligence from <strong>HKUST (Guangzhou)</strong> in 2026, supervised by <a href="https://scholar.google.com/citations?user=cVDF1tkAAAAJ" target="_blank" rel="noopener noreferrer">Prof. Hui Xiong</a> (AAAS / IEEE / AAAI / ACM Fellow, Founding Editor-in-Chief of <em>Nature npj AI</em>).</p>
+  <div class="academic-prose experience-content">{% capture experience %}{% include home/experience.md %}{% endcapture %}{{ experience | markdownify }}</div>
+  <details class="archive-disclosure"><summary>Selected milestones <span aria-hidden="true">＋</span></summary><div class="academic-prose">{% capture milestones %}{% include home/milestones.md %}{% endcapture %}{{ milestones | markdownify }}</div></details>
+</section>
+
+<section id="community" class="section community-section">
+  <span id="-jxfw" class="legacy-anchor"></span>
+  <div class="section-heading"><div><p class="eyebrow">05 / COMMUNITY</p><h2>Teaching & giving back.</h2></div></div>
+  <div class="academic-prose community-content">{% capture service %}{% include home/service.md %}{% endcapture %}{{ service | markdownify }}</div>
+</section>
+
+<section id="contact" class="section contact-section">
+  <div><p class="eyebrow">LET’S CONNECT</p><h2>Great research starts<br>with a conversation.</h2><p>I welcome conversations about embodied AI, brain-inspired computing, and academic collaboration.</p></div>
+  <div class="contact-links"><a class="button button-dark" href="mailto:guoweiyu96@gmail.com">Say hello <span aria-hidden="true">↗</span></a><a href="mailto:guoweiyu96@gmail.com">guoweiyu96@gmail.com</a><a href="https://github.com/guoweiyu" target="_blank" rel="noopener noreferrer">GitHub ↗</a><a href="https://scholar.google.com/citations?hl=en&user=ES-56HMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar ↗</a></div>
+</section>

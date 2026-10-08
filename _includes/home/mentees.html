@@ -1,0 +1,8 @@
+<div class="mentee-grid">
+  {% for student in site.data.mentees.students %}
+  <div class="mentee-item">
+    <div class="mentee-name"><strong>{{ student.name | escape }}</strong><span lang="zh">{{ student.name_zh | escape }}</span></div>
+    <span class="mentee-institution">{{ student.institution | escape }}</span>
+  </div>
+  {% endfor %}
+</div>

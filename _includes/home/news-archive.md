@@ -1,0 +1,14 @@
+- *2026.08*: &nbsp; **Postdoctoral Fellow** at **MMLab, CUHK**.
+- *2026.08*: &nbsp; Our StarVLA reaches **3.5K+ stars** on GitHub!
+- *2026.08*: &nbsp; New preprint: [**How Should Vision-Language-Action Models Use Proprioceptive State?**](https://arxiv.org/abs/2608.03052) is out on arXiv!
+- *2026.07*: &nbsp; New preprint: [**The Geometry of Flow-Matching Uncertainty**](https://arxiv.org/abs/2607.27933) is out on arXiv!
+- *2026.05*: &nbsp; Released our [**AlphaBrain Platform**](https://www.alphabrain-platform.com/)!
+- *2026.05*: &nbsp; One paper accepted at **ICML 2026**!
+- *2026.04*: &nbsp; Our [StarVLA](https://arxiv.org/abs/2604.05014) report has been published!
+- *2026.02*: &nbsp; Our StarVLA reaches **2.6K+ stars** on GitHub!
+- *2025.12*: &nbsp; StarVLA selected as one of the **Top 10** Most Influential Open-Source Embodied AI Repositories!
+- *2025.10*: &nbsp; One paper accepted at **AAAI 2025**!
+- *2025.09*: &nbsp; One paper accepted at **IJCV 2025**! Two papers accepted at **NeurIPS 2025**!
+- *2025.01*: &nbsp; One paper accepted at **ICLR 2025**!
+- *2024.09*: &nbsp; One paper accepted at **NeurIPS 2024**!
+- *2024.07*: &nbsp; One paper accepted at **CVPR 2024**!

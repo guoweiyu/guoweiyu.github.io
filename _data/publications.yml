@@ -1,0 +1,235 @@
+[
+  {
+    "title": "A Brain-inspired Embodied Intelligence for Fluid and Fast Reflexive Robotics Control",
+    "authors": "<strong>Weiyu Guo</strong>, He Zhang, Pengteng Li, Tiefu Cai, Ziyang Chen, Jinhui Ye, Yandong Guo, He Xiao, Yongkui Yang, Ying Sun and Hui Xiong",
+    "image": "/images/collision.gif",
+    "venue": "Preprint · 2026",
+    "topic": "embodied",
+    "short": "NeuroVLA",
+    "description": "A cortex–cerebellum–spinal cord hierarchy for semantic planning, smooth motion, and fast local feedback.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2601.14628"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/guoweiyu/NeuroVLA"
+      }
+    ]
+  },
+  {
+    "title": "Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding.",
+    "authors": "<strong>Weiyu Guo</strong>, Ziyang Chen, Shaoguang Wang, Jianxiang He, Yijie Xu, Jinhui Ye, Ying Sun, and Hui Xiong",
+    "image": "/images/ICCV2025.png",
+    "venue": "NeurIPS · 2025",
+    "topic": "perception",
+    "short": "Logic-in-Frames",
+    "description": "Dynamic keyframe search guided by visual semantic and logical verification for long videos.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/pdf/2503.13139"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/guoweiyu/Logic-in-Frames"
+      }
+    ]
+  },
+  {
+    "title": "Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in sEMG Analysis",
+    "authors": "<strong>Weiyu Guo</strong>, Ziyue Qiao, Ying Sun, Yijie Xu, and Hui Xiong",
+    "image": "/images/ICML2025.png",
+    "venue": "ICML · 2025",
+    "topic": "neural",
+    "short": "Robust neural interfaces",
+    "description": "Short-term enhancement for noise-resilient surface electromyographic gesture recognition.",
+    "links": [
+      {
+        "label": "Proceedings",
+        "url": "https://proceedings.mlr.press/v267/guo25h.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2404.11213"
+      }
+    ]
+  },
+  {
+    "title": "SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network.",
+    "authors": "<strong>Weiyu Guo</strong>, Ying Sun, Yijie Xu, Ziyue Qiao, Yongkui Yang, and Hui Xiong",
+    "image": "/images/nips2024.png",
+    "venue": "NeurIPS · 2024",
+    "topic": "neural",
+    "short": "SpGesture",
+    "description": "Source-free adaptation with attentive spiking neural networks for sEMG gesture recognition.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2405.14398"
+      }
+    ]
+  },
+  {
+    "title": "Context-Enhanced Stereo Transformer.",
+    "authors": "<strong>Weiyu Guo</strong>, Li, Zhaoshuo, Yang, Yongkui, Wang, Zheng, Taylor, Russell H, Unberath, Mathias, Yuille, Alan, Li, Yingwei",
+    "image": "/images/ECCV2022.png",
+    "venue": "ECCV · 2022",
+    "topic": "perception",
+    "short": "Context-enhanced stereo",
+    "description": "Context-aware transformer representations for stereo correspondence.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/pdf/2210.11719"
+      }
+    ]
+  },
+  {
+    "title": "Long exposure convolutional memory network for accurate estimation of finger kinematics from surface electromyographic signals.",
+    "authors": "<strong>Weiyu Guo</strong>, Ma, Chenfei, Wang, Zheng, Zhang, Hang, Farina, Dario, Jiang, Ning, Lin, Chuang",
+    "image": "/images/NI_DM_compressed.gif",
+    "venue": "JNE · 2021",
+    "topic": "neural",
+    "short": "Continuous neural decoding",
+    "description": "Continuous finger-kinematics estimation from surface electromyographic signals.",
+    "links": []
+  },
+  {
+    "title": "Multi-attention feature fusion network for accurate estimation of finger kinematics from surface electromyographic signals.",
+    "authors": "<strong>Weiyu Guo</strong>, Jiang, Ning, Farina, Dario, Su, Jingyong, Wang, Zheng, Lin, Chuang, Xiong, Hui",
+    "image": "/images/THMS2023.png",
+    "venue": "THMS · 2023",
+    "topic": "neural",
+    "short": "Multi-attention fusion",
+    "description": "Feature fusion for continuous finger-kinematics estimation.",
+    "links": []
+  },
+  {
+    "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
+    "authors": "Han Yan, Zishang Xiang, Haokai Jiang, Zeyu Zhang, Qilin Wang, <strong>Weiyu Guo</strong>, Yandong Guo, Boxin Shi, and Hao Tang",
+    "image": "/images/papers/deltawam-fig1.png",
+    "venue": "Preprint · 2026",
+    "topic": "embodied",
+    "short": "DeltaWAM",
+    "description": "Streaming Delta Memory reuses visual context and models sparse changes for efficient bimanual manipulation.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2609.28811"
+      },
+      {
+        "label": "Project",
+        "url": "https://aigeeksgroup.github.io/DeltaWAM/"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/AIGeeksGroup/DeltaWAM"
+      }
+    ],
+    "role": "Project Leader",
+    "image_alt": "DeltaWAM Figure 1: sparse visual deltas, Streaming Delta Memory, and experimental results",
+    "image_source": "https://arxiv.org/pdf/2609.28811v1#page=1",
+    "image_figure": "Figure 1",
+    "image_page": 1
+  },
+  {
+    "title": "How Should Vision-Language-Action Models Use Proprioceptive State?",
+    "authors": "Yiren Zhao, Ziyang Chen, Ziyang Rao, Pengteng Li, He Zhang, <strong>Weiyu Guo</strong>, Yandong Guo, and Rushi Dai",
+    "image": "/images/vla_state.png",
+    "venue": "Preprint · 2026",
+    "topic": "embodied",
+    "short": "Proprioceptive state",
+    "description": "A systematic study of where and how robot state and its temporal history should enter a VLA model.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2608.03052"
+      }
+    ],
+    "role": "Project Leader"
+  },
+  {
+    "title": "The Geometry of Flow-Matching Uncertainty: A Cost-free Uncertainty Proxy and Its Application in Flow-based VLA Failure Detection.",
+    "authors": "Ziyang Rao, Yiren Zhao, <strong>Weiyu Guo</strong>, Ben Fei, Yandong Guo, and Hui Xiong",
+    "image": "/images/fm_uncertainty.gif",
+    "venue": "Preprint · 2026",
+    "topic": "embodied",
+    "short": "Flow geometry",
+    "description": "Failure-risk signals from the geometry of an existing flow-matching inference trajectory, without extra model evaluations.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2607.27933"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/rrrrrrzy/fm-geometry"
+      }
+    ],
+    "role": "Project Leader"
+  },
+  {
+    "title": "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action.",
+    "authors": "Pengteng Li, <strong>Weiyu Guo</strong>, He Zhang, Tiefu Cai, Xiao He, Yandong Guo, and Hui Xiong",
+    "image": "/images/ICML_shiyewai.gif",
+    "venue": "ICML · 2026",
+    "topic": "embodied",
+    "short": "SOMA",
+    "description": "Persistent spatial-semantic memory for manipulating objects beyond the current field of view.",
+    "links": [
+      {
+        "label": "Proceedings",
+        "url": "https://proceedings.mlr.press/v306/li26ay.html"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2605.22283"
+      }
+    ],
+    "role": "Project Leader"
+  },
+  {
+    "title": "PHASER: Phase-Aware and Semantic Experience Replay for Vision-Language-Action Models",
+    "authors": "Ziyang Chen, Shaoguang Wang, <strong>Weiyu Guo</strong>, Qianyi Cai, He Zhang, Pengteng Li, Yiren Zhao, and Yandong Guo",
+    "image": "/images/papers/phaser-fig2.png",
+    "venue": "Preprint · 2026",
+    "topic": "embodied",
+    "short": "PHASER",
+    "description": "Phase-aware memory replay to preserve brief but critical subskills during continual learning.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2606.03598"
+      }
+    ],
+    "role": "Project Leader",
+    "image_alt": "PHASER Figure 2: phase-aware memory allocation and semantic experience replay pipeline",
+    "image_source": "https://arxiv.org/pdf/2606.03598v2#page=3",
+    "image_figure": "Figure 2",
+    "image_page": 3,
+    "video": "/assets/media/publications/phaser-demo.mp4",
+    "video_poster": "/assets/media/publications/phaser-poster.jpg",
+    "video_caption": "PHASER · continual learning demo"
+  },
+  {
+    "title": "Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model",
+    "authors": "Jiaxin Liu, Xun Xu, Zhenhao Zhang, Hanqing Wang, Ruiqi Chen, Shi Chang, <strong>Weiyu Guo</strong>, and Laurent Kneip",
+    "image": "/images/papers/event-vla-fig2.png",
+    "venue": "Preprint · 2026",
+    "topic": "embodied",
+    "short": "Event-VLA",
+    "description": "Action-conditioned fusion of RGB semantics and event-camera motion cues for robust low-light manipulation.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2606.29384"
+      }
+    ],
+    "image_alt": "Event-VLA Figure 2: event residual encoding and action-conditioned event fusion architecture",
+    "image_source": "https://arxiv.org/pdf/2606.29384v1#page=3",
+    "image_figure": "Figure 2",
+    "image_page": 3
+  }
+]

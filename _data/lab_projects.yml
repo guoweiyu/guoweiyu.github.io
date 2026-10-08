@@ -1,0 +1,57 @@
+[
+  {
+    "name": "TACO",
+    "slug": "taco",
+    "category": "Tactile learning",
+    "description": "Tactile world models for self-correction and robot policy post-training.",
+    "year": 2026,
+    "paper": "https://arxiv.org/abs/2607.02840",
+    "project": "https://taco-wm.github.io/",
+    "caption": "Bottle-cap twisting · 2× speed",
+    "source": "https://taco-wm.github.io/assets/img/experiment_process/success_rollout/success_bottle.mp4",
+    "video": "/assets/media/lab/taco.mp4",
+    "poster": "/assets/media/lab/taco-poster.jpg"
+  },
+  {
+    "name": "Video2Act",
+    "slug": "video2act",
+    "category": "World models",
+    "description": "A dual-system video diffusion policy for spatial and motion modeling.",
+    "year": 2025,
+    "paper": "https://arxiv.org/abs/2512.03044",
+    "project": "https://video2act.github.io/",
+    "caption": "Dual-arm cucumber handover",
+    "source": "https://video2act.github.io/real_robot/handover_cucumber.mp4",
+    "video": "/assets/media/lab/video2act.mp4",
+    "poster": "/assets/media/lab/video2act-poster.jpg"
+  },
+  {
+    "name": "Twin-DAgger",
+    "slug": "twin-dagger",
+    "category": "Digital-twin learning",
+    "description": "Failure-aware digital-twin augmentation guided by human corrections for efficient robot manipulation.",
+    "year": 2026,
+    "venue": "ECCV · 2026",
+    "paper": "https://lijiahang617.github.io/Twin-DAgger/Twin-DAgger.pdf",
+    "project": "https://lijiahang617.github.io/Twin-DAgger/",
+    "caption": "Generalization · real-robot comparison",
+    "source": "https://lijiahang617.github.io/Twin-DAgger/videos/teaser.mp4",
+    "source_start": 285,
+    "source_duration": 25,
+    "video": "/assets/media/lab/twin-dagger.mp4",
+    "poster": "/assets/media/lab/twin-dagger-poster.jpg"
+  },
+  {
+    "name": "MotionVLA",
+    "slug": "motionvla",
+    "category": "Humanoid motion",
+    "description": "Language-driven motion with separate base structure and physical detail.",
+    "year": 2026,
+    "paper": "https://arxiv.org/abs/2606.15142",
+    "project": "https://aigeeksgroup.github.io/MotionVLA/",
+    "caption": "Language-driven humanoid walking",
+    "source": "https://aigeeksgroup.github.io/MotionVLA/assets/video/demo/exo/exo_prompt1_test1.mp4",
+    "video": "/assets/media/lab/motionvla.mp4",
+    "poster": "/assets/media/lab/motionvla-poster.jpg"
+  }
+]
