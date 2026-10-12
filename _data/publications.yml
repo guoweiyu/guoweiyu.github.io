@@ -2,7 +2,7 @@
   {
     "title": "A Brain-inspired Embodied Intelligence for Fluid and Fast Reflexive Robotics Control",
     "authors": "<strong>Weiyu Guo</strong>, He Zhang, Pengteng Li, Tiefu Cai, Ziyang Chen, Jinhui Ye, Yandong Guo, He Xiao, Yongkui Yang, Ying Sun and Hui Xiong",
-    "image": "/images/collision.gif",
+    "image": "/assets/media/publications/neurovla-lab-poster.jpg",
     "venue": "Preprint · 2026",
     "topic": "embodied",
     "short": "NeuroVLA",
@@ -16,7 +16,13 @@
         "label": "Code",
         "url": "https://github.com/guoweiyu/NeuroVLA"
       }
-    ]
+    ],
+    "image_alt": "NeuroVLA real-robot laboratory demonstration, AlphaBrain scene 3 video 3",
+    "image_source": "https://pk4u1qh1pivanzbg.public.blob.vercel-storage.com/%E5%9C%BA%E6%99%AF3-3.mp4",
+    "video": "/assets/media/publications/neurovla-lab-demo.mp4",
+    "video_poster": "/assets/media/publications/neurovla-lab-poster.jpg",
+    "video_caption": "Real-robot laboratory demonstration from AlphaBrain, scene 3 video 3.",
+    "video_only": true
   },
   {
     "title": "Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action.",

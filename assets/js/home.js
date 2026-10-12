@@ -72,7 +72,7 @@
   showLinkedPublication();
 
   if ('IntersectionObserver' in window) {
-    const sections = document.querySelectorAll('main > section[id]');
+    const sections = document.querySelectorAll('main section[id]');
     const observer = new IntersectionObserver(entries => {
       entries.forEach(entry => {
         if (!entry.isIntersecting) return;
@@ -88,7 +88,7 @@
 
 // Play demonstrations only while their cards are in view.
 (() => {
-  const videos = [...document.querySelectorAll('.team-video, .publication-video')];
+  const videos = [...document.querySelectorAll('.team-video, .publication-video, .feature-video')];
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   const visible = new Set();
   const pausedByUser = new Set();

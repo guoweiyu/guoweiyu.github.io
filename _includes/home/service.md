@@ -23,7 +23,7 @@
 
 **Journal Reviewer:** Scientific Reports, IEEE Robotics and Automation Letters (RA-L)
 
-**Invited Speaker:** Shenzhen Loop Area Institute — *"Brain-Inspired Computing and Embodied Intelligence"*
+**Invited Speaker:** Shenzhen Loop Area Institute: *"Brain-Inspired Computing and Embodied Intelligence"*
 
 
 
