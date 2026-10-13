@@ -14,8 +14,10 @@ redirect_from:
     <p class="hero-eyebrow">Brain-inspired embodied intelligence</p>
     <h1>Weiyu Guo <span class="chinese-name" lang="zh">郭伟钰</span></h1>
     <div class="hero-leadership">
-      <p class="hero-role"><strong>Principal Investigator (PI), XLab</strong><a href="https://www.ai2robotics.com/" target="_blank" rel="noopener noreferrer">AI² Robotics <span class="company-name" lang="zh">智平方</span></a></p>
-      <p class="hero-responsibility">Leading embodied foundation models &amp; frontier embodied AI research.</p>
+      <p class="hero-role"><strong>Head of Embodied Foundation Models</strong></p>
+      <p class="hero-role"><strong>Principal Investigator (PI), XLab</strong></p>
+      <a class="hero-company" href="https://www.ai2robotics.com/" target="_blank" rel="noopener noreferrer">AI² Robotics <span class="company-name" lang="zh">智平方</span></a>
+      <p class="hero-responsibility">Leading company-wide embodied foundation model development and frontier embodied AI research.</p>
     </div>
     <p class="hero-bio">I build models that connect perception, memory, and control. My research brings insights from the brain into embodied AI, for robots that understand the world and act within it.</p>
     <p class="hero-affiliation"><a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank" rel="noopener noreferrer">Postdoctoral Fellow, MMLab, CUHK.</a></p>
